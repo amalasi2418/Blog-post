@@ -41,14 +41,12 @@ t <- cbind(t,gtemp_India1[-1,])
 
 colnames(t) <- c("Year", "Avg_temp", "Std_dev")
 
-#gtemp_India_yr <- as.data.frame(t)
 
 gtemp_India_yr <- apply(t[ , ], 2,            # Specify own function within apply
          function(x) as.numeric(as.character(x)))
 gtemp_India_yr <- as.data.frame(gtemp_India_yr)
 
-#gtemp_India_yr[,2:3] <- as.numeric(as.matrix(gtemp_India_yr[,2:3]))
-#gtemp_India_yr[,1] <- as.numeric(as.matrix(gtemp_India_yr[,1]))
+
 s <- as.numeric(as.matrix(t))
  
 # extracting monthly data between 1962-2019
@@ -147,12 +145,9 @@ gtemp_India_month1[,2] <- factor(gtemp_India_month1[,2],levels = months)
 # base plot
 b0 <- gtemp_India_month1 %>% ggplot(aes(Months,Avg_temp))
 
-# plotting monthly data-uninformative
-#b1 <- gtemp_India_month1 %>% ggplot(aes(Months,Avg_temp)) + 
-#  geom_point(aes(col = Months)) + theme(legend.position = "none")
 
 
-# default boxplot for monthly data- adds value
+# default boxplot for monthly data-
 b1 <- gtemp_India_month1 %>% ggplot(aes(Months,Avg_temp)) + 
   geom_boxplot() + theme(legend.position = "none")
 
@@ -176,12 +171,6 @@ b3 <- b2 + geom_jitter(aes(col = Months), alpha = 0.5, width = 0.25) +
 # combining the plots
 b1+b21+b3
 
-
-# just use jitter instead of boxplot
-#b4 <- b0+geom_jitter(aes(col = Months)) + theme(legend.position = "none")
-
-# controlling the jitter
-#b5 <- b2 + geom_sina(aes(col = Months)) + theme(legend.position = "none")
 
 # make it sassy with violin plots
 b4 <- gtemp_India_month1 %>% 
@@ -223,12 +212,4 @@ b11+theme(plot.margin=unit(c(2,15,2,2),"mm"))+b31
 
 b11+theme(plot.margin=unit(c(2,15,2,2),"mm"))+b5
 
-##########################
-#### Texts: axis titles
 
-axis1 <- b2 + labs(x = "Months", y = "Avg. temperature (°C)")
-# if want toa dd individual axis title then
-# xlab("Months")
-# ylab("Avg. temperature (°C)")
-
-axis1
