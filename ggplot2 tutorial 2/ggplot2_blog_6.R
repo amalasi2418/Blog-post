@@ -96,6 +96,27 @@ a2 <- gasoline %>% ggplot(aes(A1,fill=Year_chunk)) +
 a1+a2
 
 
+# Half-yearly
+gasoline <- gasoline %>% 
+  mutate(Half_yearly = case_when(
+    Month %in% c("Jan","Feb","Mar","Apr","May","Jun") ~ "H1",
+    #Month %in% c() ~ "Q2",
+    #Month %in% c("Jul","Aug","Sep") ~ "Q3",
+    TRUE ~ "H2"
+  )
+  )
+
+aa1 <- gasoline %>% ggplot(aes(A1,fill=Half_yearly)) + 
+  geom_histogram(alpha = 0.25) +
+  labs(x="Retail gasoline price ($/gallon)",y="Counts")
+
+aa2 <- gasoline %>% ggplot(aes(A1,fill=Half_yearly)) + 
+  geom_histogram(alpha = 0.25,position="identity") +
+  labs(x="Retail gasoline price ($/gallon)",y="Counts")
+
+aa1+aa2
+
+
 # Histogram with density plot
 
 # gasoline %>% ggplot(aes(A1)) +
@@ -137,7 +158,7 @@ gasoline <- gasoline %>%
   )
 
 
-# bar plot
+# bar plot year
 c1 <- gasoline %>% ggplot(aes(Year,A1,fill=Price)) +
   geom_bar(stat = "identity") +
   scale_fill_manual(values = c("#3D5B59","#B5E5CF","#FCB5AC","#B99095"))+
@@ -155,6 +176,23 @@ c3 <- gasoline %>% filter(Year=="2008") %>% ggplot(aes(Year,A1,fill=Price)) +
 
 c1+c2+c3
 
+# bar plot default
+gasoline %>% ggplot(aes(Month,A1,fill=Price)) +
+  geom_bar(stat = "identity") +
+  scale_fill_manual(values = c("#3D5B59","#B5E5CF","#FCB5AC","#B99095"))+
+  labs(y="Counts",x="Month")
+
+# bar plot, position = fill
+gasoline %>% ggplot(aes(Month,A1,fill=Price)) +
+  geom_bar(stat = "identity", position = "fill") +
+  scale_fill_manual(values = c("#3D5B59","#B5E5CF","#FCB5AC","#B99095"))+
+  labs(y="Counts (%)",x="Month")
+
+# bar plot, position = dodge
+gasoline %>% ggplot(aes(Half_yearly,A1,fill=Price)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  scale_fill_manual(values = c("#3D5B59","#B5E5CF","#FCB5AC","#B99095"))+
+  labs(y="Retail gasoline price ($/gallon)",x="Half yearly")
 
 
 # # percentage of price segregation
