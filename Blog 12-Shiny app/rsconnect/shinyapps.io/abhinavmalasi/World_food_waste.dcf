@@ -1,0 +1,13 @@
+name: World_food_waste
+title: World_food_waste
+username:
+account: abhinavmalasi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3928507
+bundleId: 4445546
+url: https://abhinavmalasi.shinyapps.io/World_food_waste/
+when: 1617872930.05652
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data_1.csv|Fig1.jpg|Fig2.jpg|Fig4_1.jpg|Fig4_2.jpg|Fig5.jpg|Fig6.jpg|food waste.R|demo1/app.R
