@@ -53,7 +53,7 @@ ui <- fluidPage(
            
            
            sliderInput("year","Select year range",value = c(2010,2015),
-                       min=min(food_new$year),max=max(food_new$year)),
+                       min=min(food_new$year),max=max(food_new$year),sep=""),
            checkboxGroupInput("valuechain","Select value chain",check_box, selected = "All"),
 #            #radioButtons("valuechain","Select value chain",supplychain, inline = TRUE),
 # #### CSS code for aligning the radioButtons in different columns
