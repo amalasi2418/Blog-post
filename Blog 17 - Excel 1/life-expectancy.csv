@@ -1,0 +1,2431 @@
+Entity,Code,Year,Life expectancy
+Afghanistan,AFG,2010,61.028
+Africa,,2010,58.576
+Albania,ALB,2010,76.562
+Algeria,DZA,2010,74.938
+American Samoa,ASM,2010,73.126
+Americas,,2010,75.79106424
+Andorra,AND,2010,81.461
+Angola,AGO,2010,55.35
+Anguilla,AIA,2010,80.903
+Antigua and Barbuda,ATG,2010,75.823
+Argentina,ARG,2010,75.278
+Armenia,ARM,2010,73.331
+Aruba,ABW,2010,75.017
+Asia,,2010,70.951
+Australia,AUS,2010,81.944
+Austria,AUT,2010,80.622
+Azerbaijan,AZE,2010,70.938
+Bahamas,BHS,2010,72.144
+Bahrain,BHR,2010,76.057
+Bangladesh,BGD,2010,69.881
+Barbados,BRB,2010,78.364
+Belarus,BLR,2010,70.806
+Belgium,BEL,2010,80.072
+Belize,BLZ,2010,72.057
+Benin,BEN,2010,59.318
+Bermuda,BMU,2010,81.087
+Bhutan,BTN,2010,68.384
+Bolivia,BOL,2010,68.007
+Bonaire Sint Eustatius and Saba,BES,2010,76.319
+Bosnia and Herzegovina,BIH,2010,76.031
+Botswana,BWA,2010,60.211
+Brazil,BRA,2010,73.619
+British Virgin Islands,VGB,2010,77.699
+Brunei,BRN,2010,74.74
+Bulgaria,BGR,2010,73.722
+Burkina Faso,BFA,2010,57.096
+Burundi,BDI,2010,57.228
+Cambodia,KHM,2010,66.56
+Cameroon,CMR,2010,55.101
+Canada,CAN,2010,81.322
+Cape Verde,CPV,2010,71.062
+Cayman Islands,CYM,2010,82.546
+Central African Republic,CAF,2010,47.312
+Chad,TCD,2010,50.89
+Channel Islands,OWID_CIS,2010,81.483
+Chile,CHL,2010,78.779
+China,CHN,2010,74.409
+Colombia,COL,2010,75.424
+Comoros,COM,2010,61.862
+Congo,COG,2010,60.093
+Cook Islands,COK,2010,74.256
+Costa Rica,CRI,2010,78.769
+Cote d'Ivoire,CIV,2010,52.964
+Croatia,HRV,2010,76.797
+Cuba,CUB,2010,78.338
+Curacao,CUW,2010,76.964
+Cyprus,CYP,2010,79.43
+Czechia,CZE,2010,77.61
+Democratic Republic of Congo,COD,2010,56.909
+Denmark,DNK,2010,79.416
+Djibouti,DJI,2010,60.062
+Dominica,DMA,2010,74.262
+Dominican Republic,DOM,2010,72.046
+Ecuador,ECU,2010,75.089
+Egypt,EGY,2010,70.349
+El Salvador,SLV,2010,71.21
+Equatorial Guinea,GNQ,2010,55.622
+Eritrea,ERI,2010,62.193
+Estonia,EST,2010,75.311
+Eswatini,SWZ,2010,46.601
+Ethiopia,ETH,2010,61.627
+Europe,,2010,76.265
+Faeroe Islands,FRO,2010,79.47
+Falkland Islands,FLK,2010,80.128
+Fiji,FJI,2010,66.655
+Finland,FIN,2010,80.137
+France,FRA,2010,81.508
+French Guiana,GUF,2010,78.775
+French Polynesia,PYF,2010,75.611
+Gabon,GAB,2010,61.4
+Gambia,GMB,2010,59.637
+Georgia,GEO,2010,71.46
+Germany,DEU,2010,80.124
+Ghana,GHA,2010,61.03
+Gibraltar,GIB,2010,78.935
+Greece,GRC,2010,80.542
+Greenland,GRL,2010,70.422
+Grenada,GRD,2010,72.867
+Guadeloupe,GLP,2010,79.994
+Guam,GUM,2010,77.941
+Guatemala,GTM,2010,71.481
+Guinea,GIN,2010,56.861
+Guinea-Bissau,GNB,2010,54.628
+Guyana,GUY,2010,68.059
+Haiti,HTI,2010,60.511
+Honduras,HND,2010,73.317
+Hong Kong,HKG,2010,82.903
+Hungary,HUN,2010,74.488
+Iceland,ISL,2010,81.801
+India,IND,2010,66.693
+Indonesia,IDN,2010,69.205
+Iran,IRN,2010,73.905
+Iraq,IRQ,2010,68.567
+Ireland,IRL,2010,80.182
+Isle of Man,IMN,2010,80.082
+Israel,ISR,2010,81.463
+Italy,ITA,2010,81.958
+Jamaica,JAM,2010,74.038
+Japan,JPN,2010,82.971
+Jordan,JOR,2010,73.428
+Kazakhstan,KAZ,2010,67.378
+Kenya,KEN,2010,60.959
+Kiribati,KIR,2010,65.769
+Kuwait,KWT,2010,74.358
+Kyrgyzstan,KGZ,2010,68.849
+Laos,LAO,2010,64.306
+Latin America and the Caribbean,,2010,73.977
+Latvia,LVA,2010,72.838
+Lebanon,LBN,2010,78.36
+Lesotho,LSO,2010,45.1
+Liberia,LBR,2010,59.6
+Libya,LBY,2010,72.044
+Liechtenstein,LIE,2010,81.714
+Lithuania,LTU,2010,72.826
+Luxembourg,LUX,2010,80.352
+Macao,MAC,2010,82.704
+Madagascar,MDG,2010,63.388
+Malawi,MWI,2010,55.564
+Malaysia,MYS,2010,74.493
+Maldives,MDV,2010,75.905
+Mali,MLI,2010,55.251
+Malta,MLT,2010,80.868
+Marshall Islands,MHL,2010,71.403
+Martinique,MTQ,2010,80.664
+Mauritania,MRT,2010,62.527
+Mauritius,MUS,2010,73.46
+Mayotte,MYT,2010,78.758
+Mexico,MEX,2010,75.065
+Micronesia (country),FSM,2010,66.471
+Moldova,MDA,2010,69.616
+Monaco,MCO,2010,84.207
+Mongolia,MNG,2010,67.38
+Montenegro,MNE,2010,75.151
+Montserrat,MSR,2010,72.969
+Morocco,MAR,2010,74.382
+Mozambique,MOZ,2010,52.31
+Myanmar,MMR,2010,63.525
+Namibia,NAM,2010,56.665
+Nauru,NRU,2010,58.852
+Nepal,NPL,2010,67.611
+Netherlands,NLD,2010,80.797
+New Caledonia,NCL,2010,75.769
+New Zealand,NZL,2010,80.86
+Nicaragua,NIC,2010,72.428
+Niger,NER,2010,57.333
+Nigeria,NGA,2010,50.896
+Niue,NIU,2010,72.434
+North Korea,PRK,2010,69.571
+North Macedonia,MKD,2010,74.662
+Northern America,,2010,78.916
+Northern Mariana Islands,MNP,2010,73.885
+Norway,NOR,2010,81.156
+Oceania,,2010,76.82
+Oman,OMN,2010,75.682
+Pakistan,PAK,2010,65.264
+Palau,PLW,2010,71.406
+Palestine,PSE,2010,72.788
+Panama,PAN,2010,76.792
+Papua New Guinea,PNG,2010,62.029
+Paraguay,PRY,2010,72.653
+Peru,PER,2010,74.41
+Philippines,PHL,2010,69.823
+Poland,POL,2010,76.33
+Portugal,PRT,2010,79.995
+Puerto Rico,PRI,2010,78.572
+Qatar,QAT,2010,79.108
+Reunion,REU,2010,78.936
+Romania,ROU,2010,74.066
+Russia,RUS,2010,68.715
+Rwanda,RWA,2010,63.433
+Saint Barthlemy,,2010,79.908
+Saint Helena,SHN,2010,79.738
+Saint Kitts and Nevis,KNA,2010,74.305
+Saint Lucia,LCA,2010,74.852
+Saint Martin (French part),MAF,2010,79.794
+Saint Pierre and Miquelon,SPM,2010,79.957
+Saint Vincent and the Grenadines,VCT,2010,71.776
+Samoa,WSM,2010,71.663
+San Marino,SMR,2010,83.257
+Sao Tome and Principe,STP,2010,67.43
+Saudi Arabia,SAU,2010,73.917
+Senegal,SEN,2010,64.284
+Serbia,SRB,2010,74.101
+Seychelles,SYC,2010,72.892
+Sierra Leone,SLE,2010,49.382
+Singapore,SGP,2010,81.833
+Sint Maarten (Dutch part),SXM,2010,77.643
+Slovakia,SVK,2010,75.493
+Slovenia,SVN,2010,79.421
+Solomon Islands,SLB,2010,70.674
+Somalia,SOM,2010,53.99
+South Africa,ZAF,2010,57.669
+South Korea,KOR,2010,80.432
+South Sudan,SSD,2010,54.8
+Spain,ESP,2010,81.9
+Sri Lanka,LKA,2010,75.439
+Sudan,SDN,2010,62.764
+Suriname,SUR,2010,70.465
+Sweden,SWE,2010,81.514
+Switzerland,CHE,2010,82.269
+Syria,SYR,2010,72.108
+Taiwan,TWN,2010,78.753
+Tajikistan,TJK,2010,68.736
+Tanzania,TZA,2010,58.584
+Thailand,THA,2010,74.184
+Timor,TLS,2010,67.186
+Togo,TGO,2010,57.468
+Tokelau,TKL,2010,79.808
+Tonga,TON,2010,70.059
+Trinidad and Tobago,TTO,2010,71.946
+Tunisia,TUN,2010,75.041
+Turkey,TUR,2010,74.507
+Turkmenistan,TKM,2010,66.657
+Turks and Caicos Islands,TCA,2010,79.081
+Tuvalu,TUV,2010,64.551
+Uganda,UGA,2010,57.099
+Ukraine,UKR,2010,69.361
+United Arab Emirates,ARE,2010,76.332
+United Kingdom,GBR,2010,80.352
+United States,USA,2010,78.652
+United States Virgin Islands,VIR,2010,78.602
+Uruguay,URY,2010,76.75
+Uzbekistan,UZB,2010,69.672
+Vanuatu,VUT,2010,69.123
+Vatican,VAT,2010,73.12
+Venezuela,VEN,2010,73.134
+Vietnam,VNM,2010,74.837
+Wallis and Futuna,WLF,2010,78.066
+Western Sahara,ESH,2010,67.372
+World,OWID_WRL,2010,69.934
+Yemen,YEM,2010,65.549
+Zambia,ZMB,2010,55.655
+Zimbabwe,ZWE,2010,50.64
+Afghanistan,AFG,2011,61.553
+Africa,,2011,59.263
+Albania,ALB,2011,76.914
+Algeria,DZA,2011,75.199
+American Samoa,ASM,2011,73.295
+Americas,,2011,75.95720977
+Andorra,AND,2011,81.837
+Angola,AGO,2011,56.33
+Anguilla,AIA,2011,81.007
+Antigua and Barbuda,ATG,2011,75.956
+Argentina,ARG,2011,75.439
+Armenia,ARM,2011,73.572
+Aruba,ABW,2011,75.158
+Asia,,2011,71.309
+Australia,AUS,2011,82.119
+Austria,AUT,2011,80.776
+Azerbaijan,AZE,2011,71.234
+Bahamas,BHS,2011,72.263
+Bahrain,BHR,2011,76.2
+Bangladesh,BGD,2011,70.256
+Barbados,BRB,2011,78.456
+Belarus,BLR,2011,71.443
+Belgium,BEL,2011,80.261
+Belize,BLZ,2011,72.57
+Benin,BEN,2011,59.59
+Bermuda,BMU,2011,81.284
+Bhutan,BTN,2011,68.84
+Bolivia,BOL,2011,68.521
+Bonaire Sint Eustatius and Saba,BES,2011,76.435
+Bosnia and Herzegovina,BIH,2011,76.219
+Botswana,BWA,2011,61.91
+Brazil,BRA,2011,73.921
+British Virgin Islands,VGB,2011,77.817
+Brunei,BRN,2011,74.852
+Bulgaria,BGR,2011,73.932
+Burkina Faso,BFA,2011,57.761
+Burundi,BDI,2011,57.925
+Cambodia,KHM,2011,67.043
+Cameroon,CMR,2011,55.581
+Canada,CAN,2011,81.51
+Cape Verde,CPV,2011,71.243
+Cayman Islands,CYM,2011,82.72
+Central African Republic,CAF,2011,47.95
+Chad,TCD,2011,51.424
+Channel Islands,OWID_CIS,2011,81.688
+Chile,CHL,2011,78.986
+China,CHN,2011,74.708
+Colombia,COL,2011,75.655
+Comoros,COM,2011,62.24
+Congo,COG,2011,60.785
+Cook Islands,COK,2011,74.489
+Costa Rica,CRI,2011,78.919
+Cote d'Ivoire,CIV,2011,53.62
+Croatia,HRV,2011,77.059
+Cuba,CUB,2011,78.4
+Curacao,CUW,2011,77.283
+Cyprus,CYP,2011,79.621
+Czechia,CZE,2011,77.843
+Democratic Republic of Congo,COD,2011,57.427
+Denmark,DNK,2011,79.704
+Djibouti,DJI,2011,60.667
+Dominica,DMA,2011,74.111
+Dominican Republic,DOM,2011,72.284
+Ecuador,ECU,2011,75.289
+Egypt,EGY,2011,70.543
+El Salvador,SLV,2011,71.449
+Equatorial Guinea,GNQ,2011,55.945
+Eritrea,ERI,2011,62.732
+Estonia,EST,2011,75.893
+Eswatini,SWZ,2011,48.141
+Ethiopia,ETH,2011,62.505
+Europe,,2011,76.634
+Faeroe Islands,FRO,2011,79.598
+Falkland Islands,FLK,2011,80.286
+Fiji,FJI,2011,66.759
+Finland,FIN,2011,80.365
+France,FRA,2011,81.692
+French Guiana,GUF,2011,79.001
+French Polynesia,PYF,2011,75.844
+Gabon,GAB,2011,62.168
+Gambia,GMB,2011,59.917
+Georgia,GEO,2011,71.773
+Germany,DEU,2011,80.261
+Ghana,GHA,2011,61.381
+Gibraltar,GIB,2011,79.022
+Greece,GRC,2011,80.754
+Greenland,GRL,2011,70.711
+Grenada,GRD,2011,72.768
+Guadeloupe,GLP,2011,80.232
+Guam,GUM,2011,78.173
+Guatemala,GTM,2011,71.861
+Guinea,GIN,2011,57.387
+Guinea-Bissau,GNB,2011,55.144
+Guyana,GUY,2011,68.321
+Haiti,HTI,2011,60.879
+Honduras,HND,2011,73.569
+Hong Kong,HKG,2011,83.109
+Hungary,HUN,2011,74.795
+Iceland,ISL,2011,81.951
+India,IND,2011,67.13
+Indonesia,IDN,2011,69.542
+Iran,IRN,2011,74.352
+Iraq,IRQ,2011,68.848
+Ireland,IRL,2011,80.382
+Isle of Man,IMN,2011,80.239
+Israel,ISR,2011,81.653
+Italy,ITA,2011,82.128
+Jamaica,JAM,2011,74.012
+Japan,JPN,2011,83.118
+Jordan,JOR,2011,73.581
+Kazakhstan,KAZ,2011,68.047
+Kenya,KEN,2011,61.851
+Kiribati,KIR,2011,66.072
+Kuwait,KWT,2011,74.55
+Kyrgyzstan,KGZ,2011,69.376
+Laos,LAO,2011,64.797
+Latin America and the Caribbean,,2011,74.167
+Latvia,LVA,2011,73.323
+Lebanon,LBN,2011,78.507
+Lesotho,LSO,2011,46.207
+Liberia,LBR,2011,60.146
+Libya,LBY,2011,71.956
+Liechtenstein,LIE,2011,81.801
+Lithuania,LTU,2011,73.256
+Luxembourg,LUX,2011,80.664
+Macao,MAC,2011,82.938
+Madagascar,MDG,2011,63.836
+Malawi,MWI,2011,57.161
+Malaysia,MYS,2011,74.683
+Maldives,MDV,2011,76.293
+Mali,MLI,2011,55.701
+Malta,MLT,2011,81.094
+Marshall Islands,MHL,2011,71.686
+Martinique,MTQ,2011,80.883
+Mauritania,MRT,2011,62.799
+Mauritius,MUS,2011,73.718
+Mayotte,MYT,2011,78.997
+Mexico,MEX,2011,75.011
+Micronesia (country),FSM,2011,66.646
+Moldova,MDA,2011,70.119
+Monaco,MCO,2011,84.462
+Mongolia,MNG,2011,67.818
+Montenegro,MNE,2011,75.505
+Montserrat,MSR,2011,73.214
+Morocco,MAR,2011,74.696
+Mozambique,MOZ,2011,53.043
+Myanmar,MMR,2011,63.983
+Namibia,NAM,2011,58.085
+Nauru,NRU,2011,59.126
+Nepal,NPL,2011,68.028
+Netherlands,NLD,2011,81.015
+New Caledonia,NCL,2011,75.994
+New Zealand,NZL,2011,81.052
+Nicaragua,NIC,2011,72.692
+Niger,NER,2011,58.081
+Nigeria,NGA,2011,51.346
+Niue,NIU,2011,72.575
+North Korea,PRK,2011,70.012
+North Macedonia,MKD,2011,74.846
+Northern America,,2011,79.049
+Northern Mariana Islands,MNP,2011,74.014
+Norway,NOR,2011,81.345
+Oceania,,2011,77.043
+Oman,OMN,2011,75.916
+Pakistan,PAK,2011,65.562
+Palau,PLW,2011,71.695
+Palestine,PSE,2011,72.915
+Panama,PAN,2011,76.989
+Papua New Guinea,PNG,2011,62.316
+Paraguay,PRY,2011,72.86
+Peru,PER,2011,74.697
+Philippines,PHL,2011,69.984
+Poland,POL,2011,76.647
+Portugal,PRT,2011,80.26
+Puerto Rico,PRI,2011,78.797
+Qatar,QAT,2011,79.26
+Reunion,REU,2011,79.173
+Romania,ROU,2011,74.42
+Russia,RUS,2011,69.343
+Rwanda,RWA,2011,64.523
+Saint Barthlemy,,2011,80.139
+Saint Helena,SHN,2011,79.882
+Saint Kitts and Nevis,KNA,2011,74.568
+Saint Lucia,LCA,2011,74.993
+Saint Martin (French part),MAF,2011,80.035
+Saint Pierre and Miquelon,SPM,2011,80.077
+Saint Vincent and the Grenadines,VCT,2011,71.827
+Samoa,WSM,2011,71.906
+San Marino,SMR,2011,83.495
+Sao Tome and Principe,STP,2011,67.885
+Saudi Arabia,SAU,2011,74.089
+Senegal,SEN,2011,64.898
+Serbia,SRB,2011,74.364
+Seychelles,SYC,2011,72.976
+Sierra Leone,SLE,2011,50.234
+Singapore,SGP,2011,82.048
+Sint Maarten (Dutch part),SXM,2011,77.799
+Slovakia,SVK,2011,75.782
+Slovenia,SVN,2011,79.725
+Solomon Islands,SLB,2011,70.985
+Somalia,SOM,2011,54.342
+South Africa,ZAF,2011,58.895
+South Korea,KOR,2011,80.79
+South Sudan,SSD,2011,55.325
+Spain,ESP,2011,82.149
+Sri Lanka,LKA,2011,75.614
+Sudan,SDN,2011,63.171
+Suriname,SUR,2011,70.676
+Sweden,SWE,2011,81.679
+Switzerland,CHE,2011,82.45
+Syria,SYR,2011,71.27
+Taiwan,TWN,2011,78.961
+Tajikistan,TJK,2011,69.055
+Tanzania,TZA,2011,59.525
+Thailand,THA,2011,74.593
+Timor,TLS,2011,67.477
+Togo,TGO,2011,58.092
+Tokelau,TKL,2011,80.078
+Tonga,TON,2011,70.148
+Trinidad and Tobago,TTO,2011,72.17
+Tunisia,TUN,2011,75.206
+Turkey,TUR,2011,74.944
+Turkmenistan,TKM,2011,66.928
+Turks and Caicos Islands,TCA,2011,79.191
+Tuvalu,TUV,2011,64.935
+Uganda,UGA,2011,58.087
+Ukraine,UKR,2011,69.932
+United Arab Emirates,ARE,2011,76.521
+United Kingdom,GBR,2011,80.564
+United States,USA,2011,78.777
+United States Virgin Islands,VIR,2011,78.907
+Uruguay,URY,2011,76.882
+Uzbekistan,UZB,2011,69.91
+Vanuatu,VUT,2011,69.272
+Vatican,VAT,2011,73.388
+Venezuela,VEN,2011,73.11
+Vietnam,VNM,2011,74.904
+Wallis and Futuna,WLF,2011,78.394
+Western Sahara,ESH,2011,67.797
+World,OWID_WRL,2011,70.32
+Yemen,YEM,2011,65.768
+Zambia,ZMB,2011,57.126
+Zimbabwe,ZWE,2011,52.896
+Afghanistan,AFG,2012,62.054
+Africa,,2012,59.914
+Albania,ALB,2012,77.252
+Algeria,DZA,2012,75.436
+American Samoa,ASM,2012,73.419
+Americas,,2012,76.10318017
+Andorra,AND,2012,82.202
+Angola,AGO,2012,57.236
+Anguilla,AIA,2012,81.09
+Antigua and Barbuda,ATG,2012,76.087
+Argentina,ARG,2012,75.598
+Armenia,ARM,2012,73.82
+Aruba,ABW,2012,75.299
+Asia,,2012,71.659
+Australia,AUS,2012,82.291
+Austria,AUT,2012,80.906
+Azerbaijan,AZE,2012,71.506
+Bahamas,BHS,2012,72.424
+Bahrain,BHR,2012,76.342
+Bangladesh,BGD,2012,70.606
+Barbados,BRB,2012,78.547
+Belarus,BLR,2012,72.07
+Belgium,BEL,2012,80.444
+Belize,BLZ,2012,73.044
+Benin,BEN,2012,59.842
+Bermuda,BMU,2012,81.471
+Bhutan,BTN,2012,69.263
+Bolivia,BOL,2012,69.01
+Bonaire Sint Eustatius and Saba,BES,2012,76.556
+Bosnia and Herzegovina,BIH,2012,76.401
+Botswana,BWA,2012,63.511
+Brazil,BRA,2012,74.209
+British Virgin Islands,VGB,2012,77.951
+Brunei,BRN,2012,74.962
+Bulgaria,BGR,2012,74.126
+Burkina Faso,BFA,2012,58.374
+Burundi,BDI,2012,58.568
+Cambodia,KHM,2012,67.48
+Cameroon,CMR,2012,56.073
+Canada,CAN,2012,81.674
+Cape Verde,CPV,2012,71.445
+Cayman Islands,CYM,2012,82.875
+Central African Republic,CAF,2012,48.638
+Chad,TCD,2012,51.928
+Channel Islands,OWID_CIS,2012,81.883
+Chile,CHL,2012,79.176
+China,CHN,2012,75.013
+Colombia,COL,2012,75.882
+Comoros,COM,2012,62.595
+Congo,COG,2012,61.423
+Cook Islands,COK,2012,74.721
+Costa Rica,CRI,2012,79.074
+Cote d'Ivoire,CIV,2012,54.271
+Croatia,HRV,2012,77.301
+Cuba,CUB,2012,78.446
+Curacao,CUW,2012,77.578
+Cyprus,CYP,2012,79.812
+Czechia,CZE,2012,78.067
+Democratic Republic of Congo,COD,2012,57.914
+Denmark,DNK,2012,79.958
+Djibouti,DJI,2012,61.395
+Dominica,DMA,2012,74.017
+Dominican Republic,DOM,2012,72.523
+Ecuador,ECU,2012,75.495
+Egypt,EGY,2012,70.736
+El Salvador,SLV,2012,71.692
+Equatorial Guinea,GNQ,2012,56.288
+Eritrea,ERI,2012,63.238
+Estonia,EST,2012,76.446
+Eswatini,SWZ,2012,49.862
+Ethiopia,ETH,2012,63.281
+Europe,,2012,76.981
+Faeroe Islands,FRO,2012,79.736
+Falkland Islands,FLK,2012,80.437
+Fiji,FJI,2012,66.859
+Finland,FIN,2012,80.586
+France,FRA,2012,81.852
+French Guiana,GUF,2012,79.189
+French Polynesia,PYF,2012,76.074
+Gabon,GAB,2012,62.924
+Gambia,GMB,2012,60.178
+Georgia,GEO,2012,72.097
+Germany,DEU,2012,80.391
+Ghana,GHA,2012,61.72
+Gibraltar,GIB,2012,79.085
+Greece,GRC,2012,80.963
+Greenland,GRL,2012,70.951
+Grenada,GRD,2012,72.669
+Guadeloupe,GLP,2012,80.472
+Guam,GUM,2012,78.408
+Guatemala,GTM,2012,72.236
+Guinea,GIN,2012,57.905
+Guinea-Bissau,GNB,2012,55.645
+Guyana,GUY,2012,68.575
+Haiti,HTI,2012,61.26
+Honduras,HND,2012,73.814
+Hong Kong,HKG,2012,83.329
+Hungary,HUN,2012,75.107
+Iceland,ISL,2012,82.095
+India,IND,2012,67.545
+Indonesia,IDN,2012,69.866
+Iran,IRN,2012,74.776
+Iraq,IRQ,2012,69.148
+Ireland,IRL,2012,80.593
+Isle of Man,IMN,2012,80.386
+Israel,ISR,2012,81.833
+Italy,ITA,2012,82.298
+Jamaica,JAM,2012,74.001
+Japan,JPN,2012,83.283
+Jordan,JOR,2012,73.722
+Kazakhstan,KAZ,2012,68.805
+Kenya,KEN,2012,62.659
+Kiribati,KIR,2012,66.381
+Kuwait,KWT,2012,74.728
+Kyrgyzstan,KGZ,2012,69.868
+Laos,LAO,2012,65.267
+Latin America and the Caribbean,,2012,74.348
+Latvia,LVA,2012,73.778
+Lebanon,LBN,2012,78.611
+Lesotho,LSO,2012,47.416
+Liberia,LBR,2012,60.663
+Libya,LBY,2012,71.901
+Liechtenstein,LIE,2012,81.865
+Lithuania,LTU,2012,73.706
+Luxembourg,LUX,2012,80.955
+Macao,MAC,2012,83.158
+Madagascar,MDG,2012,64.28
+Malawi,MWI,2012,58.629
+Malaysia,MYS,2012,74.877
+Maldives,MDV,2012,76.664
+Mali,MLI,2012,56.135
+Malta,MLT,2012,81.314
+Marshall Islands,MHL,2012,71.968
+Martinique,MTQ,2012,81.103
+Mauritania,MRT,2012,63.079
+Mauritius,MUS,2012,73.96
+Mayotte,MYT,2012,79.181
+Mexico,MEX,2012,74.966
+Micronesia (country),FSM,2012,66.817
+Moldova,MDA,2012,70.581
+Monaco,MCO,2012,84.758
+Mongolia,MNG,2012,68.217
+Montenegro,MNE,2012,75.823
+Montserrat,MSR,2012,73.496
+Morocco,MAR,2012,74.97
+Mozambique,MOZ,2012,53.931
+Myanmar,MMR,2012,64.453
+Namibia,NAM,2012,59.387
+Nauru,NRU,2012,59.38
+Nepal,NPL,2012,68.426
+Netherlands,NLD,2012,81.212
+New Caledonia,NCL,2012,76.215
+New Zealand,NZL,2012,81.233
+Nicaragua,NIC,2012,72.951
+Niger,NER,2012,58.79
+Nigeria,NGA,2012,51.786
+Niue,NIU,2012,72.712
+North Korea,PRK,2012,70.454
+North Macedonia,MKD,2012,75.019
+Northern America,,2012,79.143
+Northern Mariana Islands,MNP,2012,74.226
+Norway,NOR,2012,81.512
+Oceania,,2012,77.264
+Oman,OMN,2012,76.149
+Pakistan,PAK,2012,65.849
+Palau,PLW,2012,71.984
+Palestine,PSE,2012,73.041
+Panama,PAN,2012,77.188
+Papua New Guinea,PNG,2012,62.604
+Paraguay,PRY,2012,73.068
+Peru,PER,2012,74.981
+Philippines,PHL,2012,70.149
+Poland,POL,2012,76.968
+Portugal,PRT,2012,80.513
+Puerto Rico,PRI,2012,79.006
+Qatar,QAT,2012,79.399
+Reunion,REU,2012,79.371
+Romania,ROU,2012,74.744
+Russia,RUS,2012,69.944
+Rwanda,RWA,2012,65.438
+Saint Barthlemy,,2012,80.374
+Saint Helena,SHN,2012,80.002
+Saint Kitts and Nevis,KNA,2012,74.829
+Saint Lucia,LCA,2012,75.138
+Saint Martin (French part),MAF,2012,80.285
+Saint Pierre and Miquelon,SPM,2012,80.192
+Saint Vincent and the Grenadines,VCT,2012,71.879
+Samoa,WSM,2012,72.136
+San Marino,SMR,2012,83.737
+Sao Tome and Principe,STP,2012,68.306
+Saudi Arabia,SAU,2012,74.254
+Senegal,SEN,2012,65.448
+Serbia,SRB,2012,74.619
+Seychelles,SYC,2012,73.041
+Sierra Leone,SLE,2012,51.018
+Singapore,SGP,2012,82.254
+Sint Maarten (Dutch part),SXM,2012,77.946
+Slovakia,SVK,2012,76.067
+Slovenia,SVN,2012,80.001
+Solomon Islands,SLB,2012,71.296
+Somalia,SOM,2012,54.713
+South Africa,ZAF,2012,60.06
+South Korea,KOR,2012,81.137
+South Sudan,SSD,2012,55.791
+Spain,ESP,2012,82.384
+Sri Lanka,LKA,2012,75.796
+Sudan,SDN,2012,63.542
+Suriname,SUR,2012,70.851
+Sweden,SWE,2012,81.834
+Switzerland,CHE,2012,82.626
+Syria,SYR,2012,70.55
+Taiwan,TWN,2012,79.164
+Tajikistan,TJK,2012,69.34
+Tanzania,TZA,2012,60.47
+Thailand,THA,2012,74.992
+Timor,TLS,2012,67.72
+Togo,TGO,2012,58.661
+Tokelau,TKL,2012,80.344
+Tonga,TON,2012,70.242
+Trinidad and Tobago,TTO,2012,72.382
+Tunisia,TUN,2012,75.376
+Turkey,TUR,2012,75.373
+Turkmenistan,TKM,2012,67.167
+Turks and Caicos Islands,TCA,2012,79.282
+Tuvalu,TUV,2012,65.323
+Uganda,UGA,2012,59.017
+Ukraine,UKR,2012,70.464
+United Arab Emirates,ARE,2012,76.711
+United Kingdom,GBR,2012,80.739
+United States,USA,2012,78.862
+United States Virgin Islands,VIR,2012,79.2
+Uruguay,URY,2012,77.004
+Uzbekistan,UZB,2012,70.155
+Vanuatu,VUT,2012,69.421
+Vatican,VAT,2012,73.645
+Venezuela,VEN,2012,73.037
+Vietnam,VNM,2012,74.958
+Wallis and Futuna,WLF,2012,78.677
+Western Sahara,ESH,2012,68.196
+World,OWID_WRL,2012,70.69
+Yemen,YEM,2012,65.92
+Zambia,ZMB,2012,58.502
+Zimbabwe,ZWE,2012,55.032
+Afghanistan,AFG,2013,62.525
+Africa,,2013,60.527
+Albania,ALB,2013,77.554
+Algeria,DZA,2013,75.661
+American Samoa,ASM,2013,73.506
+Americas,,2013,76.23112521
+Andorra,AND,2013,82.536
+Angola,AGO,2013,58.054
+Anguilla,AIA,2013,81.165
+Antigua and Barbuda,ATG,2013,76.218
+Argentina,ARG,2013,75.756
+Armenia,ARM,2013,74.056
+Aruba,ABW,2013,75.441
+Asia,,2013,71.997
+Australia,AUS,2013,82.46
+Austria,AUT,2013,81.013
+Azerbaijan,AZE,2013,71.768
+Bahamas,BHS,2013,72.62
+Bahrain,BHR,2013,76.484
+Bangladesh,BGD,2013,70.93
+Barbados,BRB,2013,78.633
+Belarus,BLR,2013,72.659
+Belgium,BEL,2013,80.622
+Belize,BLZ,2013,73.452
+Benin,BEN,2013,60.092
+Bermuda,BMU,2013,81.652
+Bhutan,BTN,2013,69.662
+Bolivia,BOL,2013,69.468
+Bonaire Sint Eustatius and Saba,BES,2013,76.694
+Bosnia and Herzegovina,BIH,2013,76.569
+Botswana,BWA,2013,64.976
+Brazil,BRA,2013,74.483
+British Virgin Islands,VGB,2013,78.096
+Brunei,BRN,2013,75.075
+Bulgaria,BGR,2013,74.3
+Burkina Faso,BFA,2013,58.937
+Burundi,BDI,2013,59.148
+Cambodia,KHM,2013,67.888
+Cameroon,CMR,2013,56.576
+Canada,CAN,2013,81.812
+Cape Verde,CPV,2013,71.661
+Cayman Islands,CYM,2013,83.023
+Central African Republic,CAF,2013,49.371
+Chad,TCD,2013,52.386
+Channel Islands,OWID_CIS,2013,82.071
+Chile,CHL,2013,79.349
+China,CHN,2013,75.321
+Colombia,COL,2013,76.105
+Comoros,COM,2013,62.922
+Congo,COG,2013,62.022
+Cook Islands,COK,2013,74.951
+Costa Rica,CRI,2013,79.234
+Cote d'Ivoire,CIV,2013,54.906
+Croatia,HRV,2013,77.521
+Cuba,CUB,2013,78.485
+Curacao,CUW,2013,77.842
+Cyprus,CYP,2013,79.999
+Czechia,CZE,2013,78.283
+Democratic Republic of Congo,COD,2013,58.381
+Denmark,DNK,2013,80.171
+Djibouti,DJI,2013,62.239
+Dominica,DMA,2013,73.998
+Dominican Republic,DOM,2013,72.763
+Ecuador,ECU,2013,75.707
+Egypt,EGY,2013,70.928
+El Salvador,SLV,2013,71.935
+Equatorial Guinea,GNQ,2013,56.642
+Eritrea,ERI,2013,63.726
+Estonia,EST,2013,76.953
+Eswatini,SWZ,2013,51.699
+Ethiopia,ETH,2013,63.961
+Europe,,2013,77.301
+Faeroe Islands,FRO,2013,79.872
+Falkland Islands,FLK,2013,80.585
+Fiji,FJI,2013,66.95
+Finland,FIN,2013,80.799
+France,FRA,2013,81.992
+French Guiana,GUF,2013,79.339
+French Polynesia,PYF,2013,76.307
+Gabon,GAB,2013,63.648
+Gambia,GMB,2013,60.426
+Georgia,GEO,2013,72.412
+Germany,DEU,2013,80.517
+Ghana,GHA,2013,62.064
+Gibraltar,GIB,2013,79.154
+Greece,GRC,2013,81.166
+Greenland,GRL,2013,71.144
+Grenada,GRD,2013,72.579
+Guadeloupe,GLP,2013,80.718
+Guam,GUM,2013,78.649
+Guatemala,GTM,2013,72.596
+Guinea,GIN,2013,58.447
+Guinea-Bissau,GNB,2013,56.117
+Guyana,GUY,2013,68.819
+Haiti,HTI,2013,61.658
+Honduras,HND,2013,74.051
+Hong Kong,HKG,2013,83.56
+Hungary,HUN,2013,75.418
+Iceland,ISL,2013,82.231
+India,IND,2013,67.931
+Indonesia,IDN,2013,70.179
+Iran,IRN,2013,75.162
+Iraq,IRQ,2013,69.437
+Ireland,IRL,2013,80.823
+Isle of Man,IMN,2013,80.53
+Israel,ISR,2013,82.006
+Italy,ITA,2013,82.471
+Jamaica,JAM,2013,74.01
+Japan,JPN,2013,83.467
+Jordan,JOR,2013,73.851
+Kazakhstan,KAZ,2013,69.628
+Kenya,KEN,2013,63.419
+Kiribati,KIR,2013,66.69
+Kuwait,KWT,2013,74.885
+Kyrgyzstan,KGZ,2013,70.289
+Laos,LAO,2013,65.717
+Latin America and the Caribbean,,2013,74.522
+Latvia,LVA,2013,74.172
+Lebanon,LBN,2013,78.683
+Lesotho,LSO,2013,48.663
+Liberia,LBR,2013,61.186
+Libya,LBY,2013,71.907
+Liechtenstein,LIE,2013,81.919
+Lithuania,LTU,2013,74.145
+Luxembourg,LUX,2013,81.215
+Macao,MAC,2013,83.361
+Madagascar,MDG,2013,64.713
+Malawi,MWI,2013,59.931
+Malaysia,MYS,2013,75.072
+Maldives,MDV,2013,77.018
+Mali,MLI,2013,56.578
+Malta,MLT,2013,81.522
+Marshall Islands,MHL,2013,72.247
+Martinique,MTQ,2013,81.322
+Mauritania,MRT,2013,63.366
+Mauritius,MUS,2013,74.173
+Mayotte,MYT,2013,79.308
+Mexico,MEX,2013,74.93
+Micronesia (country),FSM,2013,66.986
+Moldova,MDA,2013,70.968
+Monaco,MCO,2013,85.077
+Mongolia,MNG,2013,68.566
+Montenegro,MNE,2013,76.089
+Montserrat,MSR,2013,73.797
+Morocco,MAR,2013,75.227
+Mozambique,MOZ,2013,54.949
+Myanmar,MMR,2013,64.921
+Namibia,NAM,2013,60.513
+Nauru,NRU,2013,59.574
+Nepal,NPL,2013,68.806
+Netherlands,NLD,2013,81.392
+New Caledonia,NCL,2013,76.428
+New Zealand,NZL,2013,81.402
+Nicaragua,NIC,2013,73.197
+Niger,NER,2013,59.455
+Nigeria,NGA,2013,52.228
+Niue,NIU,2013,72.851
+North Korea,PRK,2013,70.853
+North Macedonia,MKD,2013,75.171
+Northern America,,2013,79.2
+Northern Mariana Islands,MNP,2013,74.517
+Norway,NOR,2013,81.66
+Oceania,,2013,77.484
+Oman,OMN,2013,76.388
+Pakistan,PAK,2013,66.117
+Palau,PLW,2013,72.274
+Palestine,PSE,2013,73.17
+Panama,PAN,2013,77.386
+Papua New Guinea,PNG,2013,62.892
+Paraguay,PRY,2013,73.274
+Peru,PER,2013,75.258
+Philippines,PHL,2013,70.315
+Poland,POL,2013,77.282
+Portugal,PRT,2013,80.758
+Puerto Rico,PRI,2013,79.196
+Qatar,QAT,2013,79.527
+Reunion,REU,2013,79.532
+Romania,ROU,2013,75.029
+Russia,RUS,2013,70.508
+Rwanda,RWA,2013,66.219
+Saint Barthlemy,,2013,80.615
+Saint Helena,SHN,2013,80.091
+Saint Kitts and Nevis,KNA,2013,75.078
+Saint Lucia,LCA,2013,75.286
+Saint Martin (French part),MAF,2013,80.546
+Saint Pierre and Miquelon,SPM,2013,80.305
+Saint Vincent and the Grenadines,VCT,2013,71.939
+Samoa,WSM,2013,72.351
+San Marino,SMR,2013,83.968
+Sao Tome and Principe,STP,2013,68.695
+Saudi Arabia,SAU,2013,74.402
+Senegal,SEN,2013,65.939
+Serbia,SRB,2013,74.864
+Seychelles,SYC,2013,73.094
+Sierra Leone,SLE,2013,51.731
+Singapore,SGP,2013,82.459
+Sint Maarten (Dutch part),SXM,2013,78.086
+Slovakia,SVK,2013,76.34
+Slovenia,SVN,2013,80.25
+Solomon Islands,SLB,2013,71.601
+Somalia,SOM,2013,55.104
+South Africa,ZAF,2013,61.099
+South Korea,KOR,2013,81.472
+South Sudan,SSD,2013,56.2
+Spain,ESP,2013,82.601
+Sri Lanka,LKA,2013,75.974
+Sudan,SDN,2013,63.875
+Suriname,SUR,2013,71.002
+Sweden,SWE,2013,81.98
+Switzerland,CHE,2013,82.799
+Syria,SYR,2013,70.049
+Taiwan,TWN,2013,79.362
+Tajikistan,TJK,2013,69.609
+Tanzania,TZA,2013,61.398
+Thailand,THA,2013,75.378
+Timor,TLS,2013,67.953
+Togo,TGO,2013,59.16
+Tokelau,TKL,2013,80.599
+Tonga,TON,2013,70.335
+Trinidad and Tobago,TTO,2013,72.582
+Tunisia,TUN,2013,75.552
+Turkey,TUR,2013,75.784
+Turkmenistan,TKM,2013,67.375
+Turks and Caicos Islands,TCA,2013,79.374
+Tuvalu,TUV,2013,65.711
+Uganda,UGA,2013,59.881
+Ukraine,UKR,2013,70.918
+United Arab Emirates,ARE,2013,76.903
+United Kingdom,GBR,2013,80.876
+United States,USA,2013,78.909
+United States Virgin Islands,VIR,2013,79.469
+Uruguay,URY,2013,77.124
+Uzbekistan,UZB,2013,70.41
+Vanuatu,VUT,2013,69.57
+Vatican,VAT,2013,73.891
+Venezuela,VEN,2013,72.918
+Vietnam,VNM,2013,75.006
+Wallis and Futuna,WLF,2013,78.921
+Western Sahara,ESH,2013,68.565
+World,OWID_WRL,2013,71.039
+Yemen,YEM,2013,66.016
+Zambia,ZMB,2013,59.746
+Zimbabwe,ZWE,2013,56.897
+Afghanistan,AFG,2014,62.966
+Africa,,2014,61.093
+Albania,ALB,2014,77.813
+Algeria,DZA,2014,75.878
+American Samoa,ASM,2014,73.559
+Americas,,2014,76.34333386
+Andorra,AND,2014,82.828
+Angola,AGO,2014,58.776
+Anguilla,AIA,2014,81.243
+Antigua and Barbuda,ATG,2014,76.349
+Argentina,ARG,2014,75.913
+Armenia,ARM,2014,74.273
+Aruba,ABW,2014,75.583
+Asia,,2014,72.319
+Australia,AUS,2014,82.627
+Austria,AUT,2014,81.103
+Azerbaijan,AZE,2014,72.022
+Bahamas,BHS,2014,72.847
+Bahrain,BHR,2014,76.624
+Bangladesh,BGD,2014,71.231
+Barbados,BRB,2014,78.717
+Belarus,BLR,2014,73.192
+Belgium,BEL,2014,80.797
+Belize,BLZ,2014,73.782
+Benin,BEN,2014,60.345
+Bermuda,BMU,2014,81.828
+Bhutan,BTN,2014,70.046
+Bolivia,BOL,2014,69.891
+Bonaire Sint Eustatius and Saba,BES,2014,76.854
+Bosnia and Herzegovina,BIH,2014,76.723
+Botswana,BWA,2014,66.265
+Brazil,BRA,2014,74.745
+British Virgin Islands,VGB,2014,78.25
+Brunei,BRN,2014,75.193
+Bulgaria,BGR,2014,74.451
+Burkina Faso,BFA,2014,59.45
+Burundi,BDI,2014,59.665
+Cambodia,KHM,2014,68.273
+Cameroon,CMR,2014,57.083
+Canada,CAN,2014,81.927
+Cape Verde,CPV,2014,71.886
+Cayman Islands,CYM,2014,83.171
+Central African Republic,CAF,2014,50.129
+Chad,TCD,2014,52.789
+Channel Islands,OWID_CIS,2014,82.252
+Chile,CHL,2014,79.504
+China,CHN,2014,75.629
+Colombia,COL,2014,76.322
+Comoros,COM,2014,63.214
+Congo,COG,2014,62.582
+Cook Islands,COK,2014,75.181
+Costa Rica,CRI,2014,79.398
+Cote d'Ivoire,CIV,2014,55.508
+Croatia,HRV,2014,77.717
+Cuba,CUB,2014,78.521
+Curacao,CUW,2014,78.072
+Cyprus,CYP,2014,80.178
+Czechia,CZE,2014,78.492
+Democratic Republic of Congo,COD,2014,58.828
+Denmark,DNK,2014,80.342
+Djibouti,DJI,2014,63.171
+Dominica,DMA,2014,74.059
+Dominican Republic,DOM,2014,73.003
+Ecuador,ECU,2014,75.923
+Egypt,EGY,2014,71.117
+El Salvador,SLV,2014,72.175
+Equatorial Guinea,GNQ,2014,57.001
+Eritrea,ERI,2014,64.201
+Estonia,EST,2014,77.401
+Eswatini,SWZ,2014,53.569
+Ethiopia,ETH,2014,64.547
+Europe,,2014,77.588
+Faeroe Islands,FRO,2014,80.003
+Falkland Islands,FLK,2014,80.731
+Fiji,FJI,2014,67.03
+Finland,FIN,2014,81.002
+France,FRA,2014,82.114
+French Guiana,GUF,2014,79.458
+French Polynesia,PYF,2014,76.546
+Gabon,GAB,2014,64.318
+Gambia,GMB,2014,60.667
+Georgia,GEO,2014,72.707
+Germany,DEU,2014,80.642
+Ghana,GHA,2014,62.416
+Gibraltar,GIB,2014,79.24
+Greece,GRC,2014,81.361
+Greenland,GRL,2014,71.294
+Grenada,GRD,2014,72.503
+Guadeloupe,GLP,2014,80.968
+Guam,GUM,2014,78.895
+Guatemala,GTM,2014,72.935
+Guinea,GIN,2014,59.016
+Guinea-Bissau,GNB,2014,56.556
+Guyana,GUY,2014,69.049
+Haiti,HTI,2014,62.069
+Honduras,HND,2014,74.278
+Hong Kong,HKG,2014,83.801
+Hungary,HUN,2014,75.72
+Iceland,ISL,2014,82.359
+India,IND,2014,68.286
+Indonesia,IDN,2014,70.481
+Iran,IRN,2014,75.502
+Iraq,IRQ,2014,69.7
+Ireland,IRL,2014,81.076
+Isle of Man,IMN,2014,80.674
+Israel,ISR,2014,82.175
+Italy,ITA,2014,82.648
+Jamaica,JAM,2014,74.042
+Japan,JPN,2014,83.668
+Jordan,JOR,2014,73.969
+Kazakhstan,KAZ,2014,70.483
+Kenya,KEN,2014,64.135
+Kiribati,KIR,2014,66.995
+Kuwait,KWT,2014,75.019
+Kyrgyzstan,KGZ,2014,70.626
+Laos,LAO,2014,66.144
+Latin America and the Caribbean,,2014,74.69
+Latvia,LVA,2014,74.491
+Lebanon,LBN,2014,78.732
+Lesotho,LSO,2014,49.891
+Liberia,LBR,2014,61.723
+Libya,LBY,2014,71.981
+Liechtenstein,LIE,2014,81.973
+Lithuania,LTU,2014,74.556
+Luxembourg,LUX,2014,81.442
+Macao,MAC,2014,83.543
+Madagascar,MDG,2014,65.133
+Malawi,MWI,2014,61.042
+Malaysia,MYS,2014,75.268
+Maldives,MDV,2014,77.36
+Mali,MLI,2014,57.036
+Malta,MLT,2014,81.716
+Marshall Islands,MHL,2014,72.523
+Martinique,MTQ,2014,81.539
+Mauritania,MRT,2014,63.654
+Mauritius,MUS,2014,74.352
+Mayotte,MYT,2014,79.379
+Mexico,MEX,2014,74.908
+Micronesia (country),FSM,2014,67.152
+Moldova,MDA,2014,71.267
+Monaco,MCO,2014,85.41
+Mongolia,MNG,2014,68.863
+Montenegro,MNE,2014,76.297
+Montserrat,MSR,2014,74.093
+Morocco,MAR,2014,75.477
+Mozambique,MOZ,2014,56.062
+Myanmar,MMR,2014,65.378
+Namibia,NAM,2014,61.425
+Nauru,NRU,2014,59.698
+Nepal,NPL,2014,69.168
+Netherlands,NLD,2014,81.559
+New Caledonia,NCL,2014,76.632
+New Zealand,NZL,2014,81.561
+Nicaragua,NIC,2014,73.429
+Niger,NER,2014,60.07
+Nigeria,NGA,2014,52.672
+Niue,NIU,2014,72.992
+North Korea,PRK,2014,71.198
+North Macedonia,MKD,2014,75.299
+Northern America,,2014,79.224
+Northern Mariana Islands,MNP,2014,74.876
+Norway,NOR,2014,81.792
+Oceania,,2014,77.704
+Oman,OMN,2014,76.634
+Pakistan,PAK,2014,66.36
+Palau,PLW,2014,72.559
+Palestine,PSE,2014,73.303
+Panama,PAN,2014,77.583
+Papua New Guinea,PNG,2014,63.181
+Paraguay,PRY,2014,73.473
+Peru,PER,2014,75.529
+Philippines,PHL,2014,70.481
+Poland,POL,2014,77.582
+Portugal,PRT,2014,80.995
+Puerto Rico,PRI,2014,79.366
+Qatar,QAT,2014,79.646
+Reunion,REU,2014,79.66
+Romania,ROU,2014,75.272
+Russia,RUS,2014,71.018
+Rwanda,RWA,2014,66.884
+Saint Barthlemy,,2014,80.863
+Saint Helena,SHN,2014,80.154
+Saint Kitts and Nevis,KNA,2014,75.314
+Saint Lucia,LCA,2014,75.44
+Saint Martin (French part),MAF,2014,80.817
+Saint Pierre and Miquelon,SPM,2014,80.418
+Saint Vincent and the Grenadines,VCT,2014,72.01
+Samoa,WSM,2014,72.549
+San Marino,SMR,2014,84.182
+Sao Tome and Principe,STP,2014,69.052
+Saudi Arabia,SAU,2014,74.533
+Senegal,SEN,2014,66.37
+Serbia,SRB,2014,75.095
+Seychelles,SYC,2014,73.139
+Sierra Leone,SLE,2014,52.372
+Singapore,SGP,2014,82.667
+Sint Maarten (Dutch part),SXM,2014,78.223
+Slovakia,SVK,2014,76.595
+Slovenia,SVN,2014,80.474
+Solomon Islands,SLB,2014,71.896
+Somalia,SOM,2014,55.509
+South Africa,ZAF,2014,61.968
+South Korea,KOR,2014,81.795
+South Sudan,SSD,2014,56.552
+Spain,ESP,2014,82.801
+Sri Lanka,LKA,2014,76.147
+Sudan,SDN,2014,64.169
+Suriname,SUR,2014,71.133
+Sweden,SWE,2014,82.118
+Switzerland,CHE,2014,82.971
+Syria,SYR,2014,69.821
+Taiwan,TWN,2014,79.555
+Tajikistan,TJK,2014,69.874
+Tanzania,TZA,2014,62.288
+Thailand,THA,2014,75.747
+Timor,TLS,2014,68.197
+Togo,TGO,2014,59.58
+Tokelau,TKL,2014,80.84
+Tonga,TON,2014,70.427
+Trinidad and Tobago,TTO,2014,72.768
+Tunisia,TUN,2014,75.734
+Turkey,TUR,2014,76.172
+Turkmenistan,TKM,2014,67.552
+Turks and Caicos Islands,TCA,2014,79.475
+Tuvalu,TUV,2014,66.093
+Uganda,UGA,2014,60.669
+Ukraine,UKR,2014,71.276
+United Arab Emirates,ARE,2014,77.095
+United Kingdom,GBR,2014,80.978
+United States,USA,2014,78.922
+United States Virgin Islands,VIR,2014,79.707
+Uruguay,URY,2014,77.244
+Uzbekistan,UZB,2014,70.671
+Vanuatu,VUT,2014,69.719
+Vatican,VAT,2014,74.124
+Venezuela,VEN,2014,72.762
+Vietnam,VNM,2014,75.056
+Wallis and Futuna,WLF,2014,79.127
+Western Sahara,ESH,2014,68.904
+World,OWID_WRL,2014,71.364
+Yemen,YEM,2014,66.066
+Zambia,ZMB,2014,60.831
+Zimbabwe,ZWE,2014,58.41
+Afghanistan,AFG,2015,63.377
+Africa,,2015,61.607
+Albania,ALB,2015,78.025
+Algeria,DZA,2015,76.09
+American Samoa,ASM,2015,73.588
+Americas,,2015,76.44286453
+Andorra,AND,2015,83.073
+Angola,AGO,2015,59.398
+Anguilla,AIA,2015,81.332
+Antigua and Barbuda,ATG,2015,76.483
+Argentina,ARG,2015,76.068
+Armenia,ARM,2015,74.467
+Aruba,ABW,2015,75.725
+Asia,,2015,72.62
+Australia,AUS,2015,82.794
+Austria,AUT,2015,81.182
+Azerbaijan,AZE,2015,72.266
+Bahamas,BHS,2015,73.088
+Bahrain,BHR,2015,76.762
+Bangladesh,BGD,2015,71.514
+Barbados,BRB,2015,78.801
+Belarus,BLR,2015,73.652
+Belgium,BEL,2015,80.969
+Belize,BLZ,2015,74.034
+Benin,BEN,2015,60.608
+Bermuda,BMU,2015,81.999
+Bhutan,BTN,2015,70.419
+Bolivia,BOL,2015,70.277
+Bonaire Sint Eustatius and Saba,BES,2015,77.033
+Bosnia and Herzegovina,BIH,2015,76.865
+Botswana,BWA,2015,67.338
+Brazil,BRA,2015,74.994
+British Virgin Islands,VGB,2015,78.411
+Brunei,BRN,2015,75.318
+Bulgaria,BGR,2015,74.584
+Burkina Faso,BFA,2015,59.919
+Burundi,BDI,2015,60.123
+Cambodia,KHM,2015,68.637
+Cameroon,CMR,2015,57.583
+Canada,CAN,2015,82.026
+Cape Verde,CPV,2015,72.117
+Cayman Islands,CYM,2015,83.324
+Central African Republic,CAF,2015,50.881
+Chad,TCD,2015,53.137
+Channel Islands,OWID_CIS,2015,82.429
+Chile,CHL,2015,79.646
+China,CHN,2015,75.928
+Colombia,COL,2015,76.531
+Comoros,COM,2015,63.471
+Congo,COG,2015,63.097
+Cook Islands,COK,2015,75.409
+Costa Rica,CRI,2015,79.565
+Cote d'Ivoire,CIV,2015,56.065
+Croatia,HRV,2015,77.892
+Cuba,CUB,2015,78.561
+Curacao,CUW,2015,78.268
+Cyprus,CYP,2015,80.35
+Czechia,CZE,2015,78.692
+Democratic Republic of Congo,COD,2015,59.254
+Denmark,DNK,2015,80.475
+Djibouti,DJI,2015,64.136
+Dominica,DMA,2015,74.194
+Dominican Republic,DOM,2015,73.241
+Ecuador,ECU,2015,76.143
+Egypt,EGY,2015,71.302
+El Salvador,SLV,2015,72.412
+Equatorial Guinea,GNQ,2015,57.359
+Eritrea,ERI,2015,64.664
+Estonia,EST,2015,77.783
+Eswatini,SWZ,2015,55.359
+Ethiopia,ETH,2015,65.048
+Europe,,2015,77.839
+Faeroe Islands,FRO,2015,80.13
+Falkland Islands,FLK,2015,80.876
+Fiji,FJI,2015,67.103
+Finland,FIN,2015,81.196
+France,FRA,2015,82.224
+French Guiana,GUF,2015,79.555
+French Polynesia,PYF,2015,76.787
+Gabon,GAB,2015,64.913
+Gambia,GMB,2015,60.91
+Georgia,GEO,2015,72.973
+Germany,DEU,2015,80.77
+Ghana,GHA,2015,62.772
+Gibraltar,GIB,2015,79.351
+Greece,GRC,2015,81.548
+Greenland,GRL,2015,71.407
+Grenada,GRD,2015,72.445
+Guadeloupe,GLP,2015,81.22
+Guam,GUM,2015,79.144
+Guatemala,GTM,2015,73.25
+Guinea,GIN,2015,59.598
+Guinea-Bissau,GNB,2015,56.959
+Guyana,GUY,2015,69.262
+Haiti,HTI,2015,62.485
+Honduras,HND,2015,74.495
+Hong Kong,HKG,2015,84.043
+Hungary,HUN,2015,76.006
+Iceland,ISL,2015,82.481
+India,IND,2015,68.607
+Indonesia,IDN,2015,70.768
+Iran,IRN,2015,75.796
+Iraq,IRQ,2015,69.929
+Ireland,IRL,2015,81.344
+Isle of Man,IMN,2015,80.82
+Israel,ISR,2015,82.34
+Italy,ITA,2015,82.828
+Jamaica,JAM,2015,74.098
+Japan,JPN,2015,83.879
+Jordan,JOR,2015,74.078
+Kazakhstan,KAZ,2015,71.319
+Kenya,KEN,2015,64.798
+Kiribati,KIR,2015,67.291
+Kuwait,KWT,2015,75.13
+Kyrgyzstan,KGZ,2015,70.876
+Laos,LAO,2015,66.546
+Latin America and the Caribbean,,2015,74.852
+Latvia,LVA,2015,74.733
+Lebanon,LBN,2015,78.768
+Lesotho,LSO,2015,51.038
+Liberia,LBR,2015,62.269
+Libya,LBY,2015,72.121
+Liechtenstein,LIE,2015,82.039
+Lithuania,LTU,2015,74.923
+Luxembourg,LUX,2015,81.636
+Macao,MAC,2015,83.707
+Madagascar,MDG,2015,65.539
+Malawi,MWI,2015,61.953
+Malaysia,MYS,2015,75.461
+Maldives,MDV,2015,77.691
+Mali,MLI,2015,57.509
+Malta,MLT,2015,81.896
+Marshall Islands,MHL,2015,72.789
+Martinique,MTQ,2015,81.753
+Mauritania,MRT,2015,63.936
+Mauritius,MUS,2015,74.5
+Mayotte,MYT,2015,79.408
+Mexico,MEX,2015,74.904
+Micronesia (country),FSM,2015,67.315
+Moldova,MDA,2015,71.478
+Monaco,MCO,2015,85.739
+Mongolia,MNG,2015,69.111
+Montenegro,MNE,2015,76.452
+Montserrat,MSR,2015,74.339
+Morocco,MAR,2015,75.726
+Mozambique,MOZ,2015,57.206
+Myanmar,MMR,2015,65.81
+Namibia,NAM,2015,62.119
+Nauru,NRU,2015,59.758
+Nepal,NPL,2015,69.515
+Netherlands,NLD,2015,81.715
+New Caledonia,NCL,2015,76.827
+New Zealand,NZL,2015,81.713
+Nicaragua,NIC,2015,73.649
+Niger,NER,2015,60.631
+Nigeria,NGA,2015,53.112
+Niue,NIU,2015,73.135
+North Korea,PRK,2015,71.481
+North Macedonia,MKD,2015,75.406
+Northern America,,2015,79.223
+Northern Mariana Islands,MNP,2015,75.279
+Norway,NOR,2015,81.912
+Oceania,,2015,77.92
+Oman,OMN,2015,76.887
+Pakistan,PAK,2015,66.577
+Palau,PLW,2015,72.834
+Palestine,PSE,2015,73.442
+Panama,PAN,2015,77.776
+Papua New Guinea,PNG,2015,63.466
+Paraguay,PRY,2015,73.662
+Peru,PER,2015,75.792
+Philippines,PHL,2015,70.644
+Poland,POL,2015,77.859
+Portugal,PRT,2015,81.224
+Puerto Rico,PRI,2015,79.52
+Qatar,QAT,2015,79.758
+Reunion,REU,2015,79.775
+Romania,ROU,2015,75.476
+Russia,RUS,2015,71.464
+Rwanda,RWA,2015,67.45
+Saint Barthlemy,,2015,81.114
+Saint Helena,SHN,2015,80.202
+Saint Kitts and Nevis,KNA,2015,75.532
+Saint Lucia,LCA,2015,75.596
+Saint Martin (French part),MAF,2015,81.092
+Saint Pierre and Miquelon,SPM,2015,80.533
+Saint Vincent and the Grenadines,VCT,2015,72.095
+Samoa,WSM,2015,72.73
+San Marino,SMR,2015,84.375
+Sao Tome and Principe,STP,2015,69.377
+Saudi Arabia,SAU,2015,74.651
+Senegal,SEN,2015,66.747
+Serbia,SRB,2015,75.309
+Seychelles,SYC,2015,73.182
+Sierra Leone,SLE,2015,52.941
+Singapore,SGP,2015,82.877
+Sint Maarten (Dutch part),SXM,2015,78.36
+Slovakia,SVK,2015,76.827
+Slovenia,SVN,2015,80.673
+Solomon Islands,SLB,2015,72.173
+Somalia,SOM,2015,55.92
+South Africa,ZAF,2015,62.649
+South Korea,KOR,2015,82.1
+South Sudan,SSD,2015,56.855
+Spain,ESP,2015,82.981
+Sri Lanka,LKA,2015,76.316
+Sudan,SDN,2015,64.429
+Suriname,SUR,2015,71.249
+Sweden,SWE,2015,82.251
+Switzerland,CHE,2015,83.142
+Syria,SYR,2015,69.908
+Taiwan,TWN,2015,79.743
+Tajikistan,TJK,2015,70.137
+Tanzania,TZA,2015,63.111
+Thailand,THA,2015,76.091
+Timor,TLS,2015,68.459
+Togo,TGO,2015,59.927
+Tokelau,TKL,2015,81.065
+Tonga,TON,2015,70.517
+Trinidad and Tobago,TTO,2015,72.941
+Tunisia,TUN,2015,75.922
+Turkey,TUR,2015,76.532
+Turkmenistan,TKM,2015,67.704
+Turks and Caicos Islands,TCA,2015,79.594
+Tuvalu,TUV,2015,66.457
+Uganda,UGA,2015,61.373
+Ukraine,UKR,2015,71.535
+United Arab Emirates,ARE,2015,77.285
+United Kingdom,GBR,2015,81.052
+United States,USA,2015,78.91
+United States Virgin Islands,VIR,2015,79.914
+Uruguay,URY,2015,77.369
+Uzbekistan,UZB,2015,70.928
+Vanuatu,VUT,2015,69.869
+Vatican,VAT,2015,74.344
+Venezuela,VEN,2015,72.584
+Vietnam,VNM,2015,75.11
+Wallis and Futuna,WLF,2015,79.3
+Western Sahara,ESH,2015,69.213
+World,OWID_WRL,2015,71.661
+Yemen,YEM,2015,66.085
+Zambia,ZMB,2015,61.737
+Zimbabwe,ZWE,2015,59.534
+Afghanistan,AFG,2016,63.763
+Africa,,2016,62.064
+Albania,ALB,2016,78.194
+Algeria,DZA,2016,76.298
+American Samoa,ASM,2016,73.609
+Americas,,2016,76.53703933
+Andorra,AND,2016,83.274
+Angola,AGO,2016,59.925
+Anguilla,AIA,2016,81.441
+Antigua and Barbuda,ATG,2016,76.617
+Argentina,ARG,2016,76.221
+Armenia,ARM,2016,74.64
+Aruba,ABW,2016,75.868
+Asia,,2016,72.897
+Australia,AUS,2016,82.959
+Austria,AUT,2016,81.258
+Azerbaijan,AZE,2016,72.493
+Bahamas,BHS,2016,73.329
+Bahrain,BHR,2016,76.899
+Bangladesh,BGD,2016,71.785
+Barbados,BRB,2016,78.888
+Belarus,BLR,2016,74.031
+Belgium,BEL,2016,81.139
+Belize,BLZ,2016,74.219
+Benin,BEN,2016,60.885
+Bermuda,BMU,2016,82.163
+Bhutan,BTN,2016,70.781
+Bolivia,BOL,2016,70.626
+Bonaire Sint Eustatius and Saba,BES,2016,77.225
+Bosnia and Herzegovina,BIH,2016,76.998
+Botswana,BWA,2016,68.178
+Brazil,BRA,2016,75.23
+British Virgin Islands,VGB,2016,78.576
+Brunei,BRN,2016,75.45
+Bulgaria,BGR,2016,74.703
+Burkina Faso,BFA,2016,60.354
+Burundi,BDI,2016,60.528
+Cambodia,KHM,2016,68.977
+Cameroon,CMR,2016,58.063
+Canada,CAN,2016,82.117
+Cape Verde,CPV,2016,72.347
+Cayman Islands,CYM,2016,83.48
+Central African Republic,CAF,2016,51.593
+Chad,TCD,2016,53.438
+Channel Islands,OWID_CIS,2016,82.6
+Chile,CHL,2016,79.779
+China,CHN,2016,76.21
+Colombia,COL,2016,76.732
+Comoros,COM,2016,63.7
+Congo,COG,2016,63.556
+Cook Islands,COK,2016,75.631
+Costa Rica,CRI,2016,79.738
+Cote d'Ivoire,CIV,2016,56.567
+Croatia,HRV,2016,78.049
+Cuba,CUB,2016,78.607
+Curacao,CUW,2016,78.435
+Cyprus,CYP,2016,80.513
+Czechia,CZE,2016,78.881
+Democratic Republic of Congo,COD,2016,59.655
+Denmark,DNK,2016,80.583
+Djibouti,DJI,2016,65.064
+Dominica,DMA,2016,74.384
+Dominican Republic,DOM,2016,73.471
+Ecuador,ECU,2016,76.365
+Egypt,EGY,2016,71.482
+El Salvador,SLV,2016,72.644
+Equatorial Guinea,GNQ,2016,57.713
+Eritrea,ERI,2016,65.111
+Estonia,EST,2016,78.097
+Eswatini,SWZ,2016,56.962
+Ethiopia,ETH,2016,65.482
+Europe,,2016,78.057
+Faeroe Islands,FRO,2016,80.255
+Falkland Islands,FLK,2016,81.021
+Fiji,FJI,2016,67.175
+Finland,FIN,2016,81.382
+France,FRA,2016,82.328
+French Guiana,GUF,2016,79.642
+French Polynesia,PYF,2016,77.024
+Gabon,GAB,2016,65.418
+Gambia,GMB,2016,61.166
+Georgia,GEO,2016,73.207
+Germany,DEU,2016,80.902
+Ghana,GHA,2016,63.124
+Gibraltar,GIB,2016,79.485
+Greece,GRC,2016,81.727
+Greenland,GRL,2016,71.493
+Grenada,GRD,2016,72.408
+Guadeloupe,GLP,2016,81.469
+Guam,GUM,2016,79.391
+Guatemala,GTM,2016,73.541
+Guinea,GIN,2016,60.17
+Guinea-Bissau,GNB,2016,57.328
+Guyana,GUY,2016,69.454
+Haiti,HTI,2016,62.896
+Honduras,HND,2016,74.701
+Hong Kong,HKG,2016,84.277
+Hungary,HUN,2016,76.266
+Iceland,ISL,2016,82.601
+India,IND,2016,68.897
+Indonesia,IDN,2016,71.035
+Iran,IRN,2016,76.047
+Iraq,IRQ,2016,70.122
+Ireland,IRL,2016,81.615
+Isle of Man,IMN,2016,80.966
+Israel,ISR,2016,82.503
+Italy,ITA,2016,83.008
+Jamaica,JAM,2016,74.175
+Japan,JPN,2016,84.09
+Jordan,JOR,2016,74.184
+Kazakhstan,KAZ,2016,72.081
+Kenya,KEN,2016,65.393
+Kiribati,KIR,2016,67.577
+Kuwait,KWT,2016,75.224
+Kyrgyzstan,KGZ,2016,71.054
+Laos,LAO,2016,66.924
+Latin America and the Caribbean,,2016,75.012
+Latvia,LVA,2016,74.91
+Lebanon,LBN,2016,78.8
+Lesotho,LSO,2016,52.059
+Liberia,LBR,2016,62.802
+Libya,LBY,2016,72.311
+Liechtenstein,LIE,2016,82.124
+Lithuania,LTU,2016,75.238
+Luxembourg,LUX,2016,81.803
+Macao,MAC,2016,83.854
+Madagascar,MDG,2016,65.931
+Malawi,MWI,2016,62.681
+Malaysia,MYS,2016,75.649
+Maldives,MDV,2016,78.013
+Mali,MLI,2016,57.987
+Malta,MLT,2016,82.063
+Marshall Islands,MHL,2016,73.042
+Martinique,MTQ,2016,81.962
+Mauritania,MRT,2016,64.208
+Mauritius,MUS,2016,74.626
+Mayotte,MYT,2016,79.409
+Mexico,MEX,2016,74.917
+Micronesia (country),FSM,2016,67.471
+Moldova,MDA,2016,71.617
+Monaco,MCO,2016,86.049
+Mongolia,MNG,2016,69.321
+Montenegro,MNE,2016,76.568
+Montserrat,MSR,2016,74.483
+Morocco,MAR,2016,75.974
+Mozambique,MOZ,2016,58.309
+Myanmar,MMR,2016,66.205
+Namibia,NAM,2016,62.625
+Nauru,NRU,2016,59.781
+Nepal,NPL,2016,69.848
+Netherlands,NLD,2016,81.862
+New Caledonia,NCL,2016,77.014
+New Zealand,NZL,2016,81.859
+Nicaragua,NIC,2016,73.86
+Niger,NER,2016,61.137
+Nigeria,NGA,2016,53.541
+Niue,NIU,2016,73.279
+North Korea,PRK,2016,71.711
+North Macedonia,MKD,2016,75.498
+Northern America,,2016,79.21
+Northern Mariana Islands,MNP,2016,75.694
+Norway,NOR,2016,82.029
+Oceania,,2016,78.132
+Oman,OMN,2016,77.142
+Pakistan,PAK,2016,66.77
+Palau,PLW,2016,73.089
+Palestine,PSE,2016,73.589
+Panama,PAN,2016,77.964
+Papua New Guinea,PNG,2016,63.744
+Paraguay,PRY,2016,73.836
+Peru,PER,2016,76.044
+Philippines,PHL,2016,70.802
+Poland,POL,2016,78.11
+Portugal,PRT,2016,81.444
+Puerto Rico,PRI,2016,79.664
+Qatar,QAT,2016,79.868
+Reunion,REU,2016,79.899
+Romania,ROU,2016,75.644
+Russia,RUS,2016,71.835
+Rwanda,RWA,2016,67.93
+Saint Barthlemy,,2016,81.362
+Saint Helena,SHN,2016,80.251
+Saint Kitts and Nevis,KNA,2016,75.73
+Saint Lucia,LCA,2016,75.752
+Saint Martin (French part),MAF,2016,81.364
+Saint Pierre and Miquelon,SPM,2016,80.654
+Saint Vincent and the Grenadines,VCT,2016,72.193
+Samoa,WSM,2016,72.895
+San Marino,SMR,2016,84.545
+Sao Tome and Principe,STP,2016,69.67
+Saudi Arabia,SAU,2016,74.761
+Senegal,SEN,2016,67.078
+Serbia,SRB,2016,75.505
+Seychelles,SYC,2016,73.226
+Sierra Leone,SLE,2016,53.444
+Singapore,SGP,2016,83.083
+Sint Maarten (Dutch part),SXM,2016,78.5
+Slovakia,SVK,2016,77.034
+Slovenia,SVN,2016,80.852
+Solomon Islands,SLB,2016,72.424
+Somalia,SOM,2016,56.324
+South Africa,ZAF,2016,63.153
+South Korea,KOR,2016,82.379
+South Sudan,SSD,2016,57.12
+Spain,ESP,2016,83.145
+Sri Lanka,LKA,2016,76.482
+Sudan,SDN,2016,64.663
+Suriname,SUR,2016,71.358
+Sweden,SWE,2016,82.382
+Switzerland,CHE,2016,83.31
+Syria,SYR,2016,70.315
+Taiwan,TWN,2016,79.927
+Tajikistan,TJK,2016,70.397
+Tanzania,TZA,2016,63.844
+Thailand,THA,2016,76.403
+Timor,TLS,2016,68.735
+Togo,TGO,2016,60.22
+Tokelau,TKL,2016,81.275
+Tonga,TON,2016,70.607
+Trinidad and Tobago,TTO,2016,73.1
+Tunisia,TUN,2016,76.115
+Turkey,TUR,2016,76.86
+Turkmenistan,TKM,2016,67.835
+Turks and Caicos Islands,TCA,2016,79.732
+Tuvalu,TUV,2016,66.791
+Uganda,UGA,2016,61.986
+Ukraine,UKR,2016,71.711
+United Arab Emirates,ARE,2016,77.47
+United Kingdom,GBR,2016,81.111
+United States,USA,2016,78.885
+United States Virgin Islands,VIR,2016,80.094
+Uruguay,URY,2016,77.498
+Uzbekistan,UZB,2016,71.171
+Vanuatu,VUT,2016,70.021
+Vatican,VAT,2016,74.551
+Venezuela,VEN,2016,72.405
+Vietnam,VNM,2016,75.172
+Wallis and Futuna,WLF,2016,79.454
+Western Sahara,ESH,2016,69.496
+World,OWID_WRL,2016,71.928
+Yemen,YEM,2016,66.087
+Zambia,ZMB,2016,62.464
+Zimbabwe,ZWE,2016,60.294
+Afghanistan,AFG,2017,64.13
+Africa,,2017,62.472
+Albania,ALB,2017,78.333
+Algeria,DZA,2017,76.499
+American Samoa,ASM,2017,73.636
+Americas,,2017,76.62993096
+Andorra,AND,2017,83.443
+Angola,AGO,2017,60.379
+Anguilla,AIA,2017,81.568
+Antigua and Barbuda,ATG,2017,76.752
+Argentina,ARG,2017,76.372
+Armenia,ARM,2017,74.797
+Aruba,ABW,2017,76.01
+Asia,,2017,73.15
+Australia,AUS,2017,83.122
+Austria,AUT,2017,81.34
+Azerbaijan,AZE,2017,72.693
+Bahamas,BHS,2017,73.554
+Bahrain,BHR,2017,77.032
+Bangladesh,BGD,2017,72.052
+Barbados,BRB,2017,78.981
+Belarus,BLR,2017,74.34
+Belgium,BEL,2017,81.305
+Belize,BLZ,2017,74.365
+Benin,BEN,2017,61.174
+Bermuda,BMU,2017,82.316
+Bhutan,BTN,2017,71.129
+Bolivia,BOL,2017,70.945
+Bonaire Sint Eustatius and Saba,BES,2017,77.42
+Bosnia and Herzegovina,BIH,2017,77.128
+Botswana,BWA,2017,68.812
+Brazil,BRA,2017,75.456
+British Virgin Islands,VGB,2017,78.742
+Brunei,BRN,2017,75.585
+Bulgaria,BGR,2017,74.815
+Burkina Faso,BFA,2017,60.768
+Burundi,BDI,2017,60.898
+Cambodia,KHM,2017,69.289
+Cameroon,CMR,2017,58.511
+Canada,CAN,2017,82.21
+Cape Verde,CPV,2017,72.57
+Cayman Islands,CYM,2017,83.633
+Central African Republic,CAF,2017,52.24
+Chad,TCD,2017,53.712
+Channel Islands,OWID_CIS,2017,82.766
+Chile,CHL,2017,79.909
+China,CHN,2017,76.47
+Colombia,COL,2017,76.925
+Comoros,COM,2017,63.912
+Congo,COG,2017,63.954
+Cook Islands,COK,2017,75.845
+Costa Rica,CRI,2017,79.914
+Cote d'Ivoire,CIV,2017,57.017
+Croatia,HRV,2017,78.197
+Cuba,CUB,2017,78.662
+Curacao,CUW,2017,78.587
+Cyprus,CYP,2017,80.672
+Czechia,CZE,2017,79.058
+Democratic Republic of Congo,COD,2017,60.026
+Denmark,DNK,2017,80.681
+Djibouti,DJI,2017,65.893
+Dominica,DMA,2017,74.597
+Dominican Republic,DOM,2017,73.689
+Ecuador,ECU,2017,76.584
+Egypt,EGY,2017,71.656
+El Salvador,SLV,2017,72.872
+Equatorial Guinea,GNQ,2017,58.061
+Eritrea,ERI,2017,65.538
+Estonia,EST,2017,78.354
+Eswatini,SWZ,2017,58.319
+Ethiopia,ETH,2017,65.872
+Europe,,2017,78.25
+Faeroe Islands,FRO,2017,80.383
+Falkland Islands,FLK,2017,81.163
+Fiji,FJI,2017,67.252
+Finland,FIN,2017,81.561
+France,FRA,2017,82.432
+French Guiana,GUF,2017,79.731
+French Polynesia,PYF,2017,77.251
+Gabon,GAB,2017,65.839
+Gambia,GMB,2017,61.44
+Georgia,GEO,2017,73.414
+Germany,DEU,2017,81.039
+Ghana,GHA,2017,63.463
+Gibraltar,GIB,2017,79.63
+Greece,GRC,2017,81.901
+Greenland,GRL,2017,71.565
+Grenada,GRD,2017,72.388
+Guadeloupe,GLP,2017,81.708
+Guam,GUM,2017,79.631
+Guatemala,GTM,2017,73.81
+Guinea,GIN,2017,60.706
+Guinea-Bissau,GNB,2017,57.673
+Guyana,GUY,2017,69.624
+Haiti,HTI,2017,63.29
+Honduras,HND,2017,74.898
+Hong Kong,HKG,2017,84.493
+Hungary,HUN,2017,76.498
+Iceland,ISL,2017,82.725
+India,IND,2017,69.165
+Indonesia,IDN,2017,71.282
+Iran,IRN,2017,76.271
+Iraq,IRQ,2017,70.294
+Ireland,IRL,2017,81.872
+Isle of Man,IMN,2017,81.112
+Israel,ISR,2017,82.663
+Italy,ITA,2017,83.184
+Jamaica,JAM,2017,74.267
+Japan,JPN,2017,84.29
+Jordan,JOR,2017,74.292
+Kazakhstan,KAZ,2017,72.728
+Kenya,KEN,2017,65.909
+Kiribati,KIR,2017,67.851
+Kuwait,KWT,2017,75.311
+Kyrgyzstan,KGZ,2017,71.193
+Laos,LAO,2017,67.277
+Latin America and the Caribbean,,2017,75.169
+Latvia,LVA,2017,75.048
+Lebanon,LBN,2017,78.833
+Lesotho,LSO,2017,52.947
+Liberia,LBR,2017,63.295
+Libya,LBY,2017,72.52
+Liechtenstein,LIE,2017,82.228
+Lithuania,LTU,2017,75.507
+Luxembourg,LUX,2017,81.955
+Macao,MAC,2017,83.989
+Madagascar,MDG,2017,66.311
+Malawi,MWI,2017,63.279
+Malaysia,MYS,2017,75.828
+Maldives,MDV,2017,78.325
+Mali,MLI,2017,58.452
+Malta,MLT,2017,82.221
+Marshall Islands,MHL,2017,73.278
+Martinique,MTQ,2017,82.164
+Mauritania,MRT,2017,64.464
+Mauritius,MUS,2017,74.743
+Mayotte,MYT,2017,79.405
+Mexico,MEX,2017,74.947
+Micronesia (country),FSM,2017,67.618
+Moldova,MDA,2017,71.717
+Monaco,MCO,2017,86.325
+Mongolia,MNG,2017,69.509
+Montenegro,MNE,2017,76.667
+Montserrat,MSR,2017,74.501
+Morocco,MAR,2017,76.218
+Mozambique,MOZ,2017,59.309
+Myanmar,MMR,2017,66.558
+Namibia,NAM,2017,63.021
+Nauru,NRU,2017,59.805
+Nepal,NPL,2017,70.169
+Netherlands,NLD,2017,82.004
+New Caledonia,NCL,2017,77.196
+New Zealand,NZL,2017,82.002
+Nicaragua,NIC,2017,74.068
+Niger,NER,2017,61.599
+Nigeria,NGA,2017,53.95
+Niue,NIU,2017,73.424
+North Korea,PRK,2017,71.91
+North Macedonia,MKD,2017,75.589
+Northern America,,2017,79.198
+Northern Mariana Islands,MNP,2017,76.089
+Norway,NOR,2017,82.146
+Oceania,,2017,78.336
+Oman,OMN,2017,77.393
+Pakistan,PAK,2017,66.947
+Palau,PLW,2017,73.32
+Palestine,PSE,2017,73.74
+Panama,PAN,2017,78.149
+Papua New Guinea,PNG,2017,64.01
+Paraguay,PRY,2017,73.992
+Peru,PER,2017,76.286
+Philippines,PHL,2017,70.952
+Poland,POL,2017,78.338
+Portugal,PRT,2017,81.655
+Puerto Rico,PRI,2017,79.806
+Qatar,QAT,2017,79.981
+Reunion,REU,2017,80.052
+Romania,ROU,2017,75.79
+Russia,RUS,2017,72.139
+Rwanda,RWA,2017,68.341
+Saint Barthlemy,,2017,81.599
+Saint Helena,SHN,2017,80.321
+Saint Kitts and Nevis,KNA,2017,75.91
+Saint Lucia,LCA,2017,75.907
+Saint Martin (French part),MAF,2017,81.622
+Saint Pierre and Miquelon,SPM,2017,80.783
+Saint Vincent and the Grenadines,VCT,2017,72.3
+Samoa,WSM,2017,73.046
+San Marino,SMR,2017,84.699
+Sao Tome and Principe,STP,2017,69.933
+Saudi Arabia,SAU,2017,74.874
+Senegal,SEN,2017,67.38
+Serbia,SRB,2017,75.684
+Seychelles,SYC,2017,73.276
+Sierra Leone,SLE,2017,53.895
+Singapore,SGP,2017,83.279
+Sint Maarten (Dutch part),SXM,2017,78.644
+Slovakia,SVK,2017,77.219
+Slovenia,SVN,2017,81.016
+Solomon Islands,SLB,2017,72.645
+Somalia,SOM,2017,56.709
+South Africa,ZAF,2017,63.538
+South Korea,KOR,2017,82.628
+South Sudan,SSD,2017,57.365
+Spain,ESP,2017,83.294
+Sri Lanka,LKA,2017,76.648
+Sudan,SDN,2017,64.881
+Suriname,SUR,2017,71.463
+Sweden,SWE,2017,82.516
+Switzerland,CHE,2017,83.473
+Syria,SYR,2017,70.967
+Taiwan,TWN,2017,80.107
+Tajikistan,TJK,2017,70.647
+Tanzania,TZA,2017,64.479
+Thailand,THA,2017,76.683
+Timor,TLS,2017,69.007
+Togo,TGO,2017,60.489
+Tokelau,TKL,2017,81.476
+Tonga,TON,2017,70.701
+Trinidad and Tobago,TTO,2017,73.245
+Tunisia,TUN,2017,76.31
+Turkey,TUR,2017,77.161
+Turkmenistan,TKM,2017,67.956
+Turks and Caicos Islands,TCA,2017,79.884
+Tuvalu,TUV,2017,67.089
+Uganda,UGA,2017,62.516
+Ukraine,UKR,2017,71.84
+United Arab Emirates,ARE,2017,77.647
+United Kingdom,GBR,2017,81.168
+United States,USA,2017,78.861
+United States Virgin Islands,VIR,2017,80.26
+Uruguay,URY,2017,77.632
+Uzbekistan,UZB,2017,71.388
+Vanuatu,VUT,2017,70.172
+Vatican,VAT,2017,74.749
+Venezuela,VEN,2017,72.246
+Vietnam,VNM,2017,75.241
+Wallis and Futuna,WLF,2017,79.605
+Western Sahara,ESH,2017,69.762
+World,OWID_WRL,2017,72.169
+Yemen,YEM,2017,66.086
+Zambia,ZMB,2017,63.043
+Zimbabwe,ZWE,2017,60.812
+Afghanistan,AFG,2018,64.486
+Africa,,2018,62.839
+Albania,ALB,2018,78.458
+Algeria,DZA,2018,76.693
+American Samoa,ASM,2018,73.679
+Americas,,2018,76.72842701
+Andorra,AND,2018,83.594
+Angola,AGO,2018,60.782
+Anguilla,AIA,2018,81.714
+Antigua and Barbuda,ATG,2018,76.885
+Argentina,ARG,2018,76.52
+Armenia,ARM,2018,74.945
+Aruba,ABW,2018,76.152
+Asia,,2018,73.381
+Australia,AUS,2018,83.281
+Austria,AUT,2018,81.434
+Azerbaijan,AZE,2018,72.864
+Bahamas,BHS,2018,73.752
+Bahrain,BHR,2018,77.163
+Bangladesh,BGD,2018,72.32
+Barbados,BRB,2018,79.081
+Belarus,BLR,2018,74.59
+Belgium,BEL,2018,81.468
+Belize,BLZ,2018,74.496
+Benin,BEN,2018,61.47
+Bermuda,BMU,2018,82.459
+Bhutan,BTN,2018,71.46
+Bolivia,BOL,2018,71.239
+Bonaire Sint Eustatius and Saba,BES,2018,77.608
+Bosnia and Herzegovina,BIH,2018,77.262
+Botswana,BWA,2018,69.275
+Brazil,BRA,2018,75.672
+British Virgin Islands,VGB,2018,78.907
+Brunei,BRN,2018,75.722
+Bulgaria,BGR,2018,74.928
+Burkina Faso,BFA,2018,61.174
+Burundi,BDI,2018,61.247
+Cambodia,KHM,2018,69.57
+Cameroon,CMR,2018,58.921
+Canada,CAN,2018,82.315
+Cape Verde,CPV,2018,72.782
+Cayman Islands,CYM,2018,83.781
+Central African Republic,CAF,2018,52.805
+Chad,TCD,2018,53.977
+Channel Islands,OWID_CIS,2018,82.928
+Chile,CHL,2018,80.042
+China,CHN,2018,76.704
+Colombia,COL,2018,77.109
+Comoros,COM,2018,64.118
+Congo,COG,2018,64.29
+Cook Islands,COK,2018,76.05
+Costa Rica,CRI,2018,80.095
+Cote d'Ivoire,CIV,2018,57.422
+Croatia,HRV,2018,78.342
+Cuba,CUB,2018,78.726
+Curacao,CUW,2018,78.733
+Cyprus,CYP,2018,80.828
+Czechia,CZE,2018,79.222
+Democratic Republic of Congo,COD,2018,60.368
+Denmark,DNK,2018,80.784
+Djibouti,DJI,2018,66.582
+Dominica,DMA,2018,74.806
+Dominican Republic,DOM,2018,73.892
+Ecuador,ECU,2018,76.8
+Egypt,EGY,2018,71.825
+El Salvador,SLV,2018,73.096
+Equatorial Guinea,GNQ,2018,58.402
+Eritrea,ERI,2018,65.941
+Estonia,EST,2018,78.567
+Eswatini,SWZ,2018,59.401
+Ethiopia,ETH,2018,66.24
+Europe,,2018,78.425
+Faeroe Islands,FRO,2018,80.52
+Falkland Islands,FLK,2018,81.304
+Fiji,FJI,2018,67.341
+Finland,FIN,2018,81.736
+France,FRA,2018,82.541
+French Guiana,GUF,2018,79.832
+French Polynesia,PYF,2018,77.462
+Gabon,GAB,2018,66.187
+Gambia,GMB,2018,61.735
+Georgia,GEO,2018,73.6
+Germany,DEU,2018,81.18
+Ghana,GHA,2018,63.78
+Gibraltar,GIB,2018,79.778
+Greece,GRC,2018,82.072
+Greenland,GRL,2018,71.632
+Grenada,GRD,2018,72.384
+Guadeloupe,GLP,2018,81.931
+Guam,GUM,2018,79.859
+Guatemala,GTM,2018,74.063
+Guinea,GIN,2018,61.185
+Guinea-Bissau,GNB,2018,58.003
+Guyana,GUY,2018,69.774
+Haiti,HTI,2018,63.66
+Honduras,HND,2018,75.088
+Hong Kong,HKG,2018,84.687
+Hungary,HUN,2018,76.701
+Iceland,ISL,2018,82.855
+India,IND,2018,69.416
+Indonesia,IDN,2018,71.509
+Iran,IRN,2018,76.479
+Iraq,IRQ,2018,70.454
+Ireland,IRL,2018,82.103
+Isle of Man,IMN,2018,81.255
+Israel,ISR,2018,82.819
+Italy,ITA,2018,83.352
+Jamaica,JAM,2018,74.368
+Japan,JPN,2018,84.47
+Jordan,JOR,2018,74.405
+Kazakhstan,KAZ,2018,73.236
+Kenya,KEN,2018,66.342
+Kiribati,KIR,2018,68.116
+Kuwait,KWT,2018,75.398
+Kyrgyzstan,KGZ,2018,71.321
+Laos,LAO,2018,67.61
+Latin America and the Caribbean,,2018,75.327
+Latvia,LVA,2018,75.172
+Lebanon,LBN,2018,78.875
+Lesotho,LSO,2018,53.705
+Liberia,LBR,2018,63.73
+Libya,LBY,2018,72.724
+Liechtenstein,LIE,2018,82.351
+Lithuania,LTU,2018,75.737
+Luxembourg,LUX,2018,82.102
+Macao,MAC,2018,84.118
+Madagascar,MDG,2018,66.681
+Malawi,MWI,2018,63.798
+Malaysia,MYS,2018,75.997
+Maldives,MDV,2018,78.627
+Mali,MLI,2018,58.893
+Malta,MLT,2018,82.376
+Marshall Islands,MHL,2018,73.496
+Martinique,MTQ,2018,82.359
+Mauritania,MRT,2018,64.704
+Mauritius,MUS,2018,74.863
+Mayotte,MYT,2018,79.417
+Mexico,MEX,2018,74.992
+Micronesia (country),FSM,2018,67.755
+Moldova,MDA,2018,71.808
+Monaco,MCO,2018,86.56
+Mongolia,MNG,2018,69.689
+Montenegro,MNE,2018,76.77
+Montserrat,MSR,2018,74.388
+Morocco,MAR,2018,76.453
+Mozambique,MOZ,2018,60.163
+Myanmar,MMR,2018,66.867
+Namibia,NAM,2018,63.373
+Nauru,NRU,2018,59.863
+Nepal,NPL,2018,70.478
+Netherlands,NLD,2018,82.143
+New Caledonia,NCL,2018,77.374
+New Zealand,NZL,2018,82.145
+Nicaragua,NIC,2018,74.275
+Niger,NER,2018,62.024
+Nigeria,NGA,2018,54.332
+Niue,NIU,2018,73.567
+North Korea,PRK,2018,72.095
+North Macedonia,MKD,2018,75.688
+Northern America,,2018,79.199
+Northern Mariana Islands,MNP,2018,76.44
+Norway,NOR,2018,82.271
+Oceania,,2018,78.529
+Oman,OMN,2018,77.633
+Pakistan,PAK,2018,67.114
+Palau,PLW,2018,73.524
+Palestine,PSE,2018,73.895
+Panama,PAN,2018,78.329
+Papua New Guinea,PNG,2018,64.263
+Paraguay,PRY,2018,74.131
+Peru,PER,2018,76.516
+Philippines,PHL,2018,71.095
+Poland,POL,2018,78.544
+Portugal,PRT,2018,81.857
+Puerto Rico,PRI,2018,79.952
+Qatar,QAT,2018,80.1
+Reunion,REU,2018,80.247
+Romania,ROU,2018,75.924
+Russia,RUS,2018,72.386
+Rwanda,RWA,2018,68.7
+Saint Barthlemy,,2018,81.82
+Saint Helena,SHN,2018,80.422
+Saint Kitts and Nevis,KNA,2018,76.075
+Saint Lucia,LCA,2018,76.057
+Saint Martin (French part),MAF,2018,81.86
+Saint Pierre and Miquelon,SPM,2018,80.921
+Saint Vincent and the Grenadines,VCT,2018,72.415
+Samoa,WSM,2018,73.187
+San Marino,SMR,2018,84.841
+Sao Tome and Principe,STP,2018,70.17
+Saudi Arabia,SAU,2018,74.998
+Senegal,SEN,2018,67.665
+Serbia,SRB,2018,75.849
+Seychelles,SYC,2018,73.333
+Sierra Leone,SLE,2018,54.309
+Singapore,SGP,2018,83.458
+Sint Maarten (Dutch part),SXM,2018,78.794
+Slovakia,SVK,2018,77.388
+Slovenia,SVN,2018,81.172
+Solomon Islands,SLB,2018,72.835
+Somalia,SOM,2018,57.068
+South Africa,ZAF,2018,63.857
+South Korea,KOR,2018,82.846
+South Sudan,SSD,2018,57.604
+Spain,ESP,2018,83.433
+Sri Lanka,LKA,2018,76.812
+Sudan,SDN,2018,65.095
+Suriname,SUR,2018,71.57
+Sweden,SWE,2018,82.654
+Switzerland,CHE,2018,83.63
+Syria,SYR,2018,71.779
+Taiwan,TWN,2018,80.283
+Tajikistan,TJK,2018,70.879
+Tanzania,TZA,2018,65.015
+Thailand,THA,2018,76.931
+Timor,TLS,2018,69.26
+Togo,TGO,2018,60.76
+Tokelau,TKL,2018,81.67
+Tonga,TON,2018,70.801
+Trinidad and Tobago,TTO,2018,73.38
+Tunisia,TUN,2018,76.505
+Turkey,TUR,2018,77.437
+Turkmenistan,TKM,2018,68.073
+Turks and Caicos Islands,TCA,2018,80.048
+Tuvalu,TUV,2018,67.348
+Uganda,UGA,2018,62.973
+Ukraine,UKR,2018,71.953
+United Arab Emirates,ARE,2018,77.814
+United Kingdom,GBR,2018,81.236
+United States,USA,2018,78.851
+United States Virgin Islands,VIR,2018,80.421
+Uruguay,URY,2018,77.77
+Uzbekistan,UZB,2018,71.573
+Vanuatu,VUT,2018,70.323
+Vatican,VAT,2018,74.94
+Venezuela,VEN,2018,72.128
+Vietnam,VNM,2018,75.317
+Wallis and Futuna,WLF,2018,79.767
+Western Sahara,ESH,2018,70.017
+World,OWID_WRL,2018,72.386
+Yemen,YEM,2018,66.096
+Zambia,ZMB,2018,63.51
+Zimbabwe,ZWE,2018,61.195
+Afghanistan,AFG,2019,64.833
+Africa,,2019,63.17
+Albania,ALB,2019,78.573
+Algeria,DZA,2019,76.88
+American Samoa,ASM,2019,73.745
+Americas,,2019,76.83538896
+Andorra,AND,2019,83.732
+Angola,AGO,2019,61.147
+Anguilla,AIA,2019,81.877
+Antigua and Barbuda,ATG,2019,77.016
+Argentina,ARG,2019,76.667
+Armenia,ARM,2019,75.087
+Aruba,ABW,2019,76.293
+Asia,,2019,73.593
+Australia,AUS,2019,83.436
+Austria,AUT,2019,81.544
+Azerbaijan,AZE,2019,73.005
+Bahamas,BHS,2019,73.918
+Bahrain,BHR,2019,77.292
+Bangladesh,BGD,2019,72.591
+Barbados,BRB,2019,79.19
+Belarus,BLR,2019,74.791
+Belgium,BEL,2019,81.628
+Belize,BLZ,2019,74.623
+Benin,BEN,2019,61.771
+Bermuda,BMU,2019,82.593
+Bhutan,BTN,2019,71.777
+Bolivia,BOL,2019,71.513
+Bonaire Sint Eustatius and Saba,BES,2019,77.788
+Bosnia and Herzegovina,BIH,2019,77.401
+Botswana,BWA,2019,69.592
+Brazil,BRA,2019,75.881
+British Virgin Islands,VGB,2019,79.069
+Brunei,BRN,2019,75.86
+Bulgaria,BGR,2019,75.046
+Burkina Faso,BFA,2019,61.577
+Burundi,BDI,2019,61.584
+Cambodia,KHM,2019,69.823
+Cameroon,CMR,2019,59.292
+Canada,CAN,2019,82.434
+Cape Verde,CPV,2019,72.981
+Cayman Islands,CYM,2019,83.924
+Central African Republic,CAF,2019,53.283
+Chad,TCD,2019,54.239
+Channel Islands,OWID_CIS,2019,83.086
+Chile,CHL,2019,80.181
+China,CHN,2019,76.912
+Colombia,COL,2019,77.287
+Comoros,COM,2019,64.321
+Congo,COG,2019,64.57
+Cook Islands,COK,2019,76.246
+Costa Rica,CRI,2019,80.279
+Cote d'Ivoire,CIV,2019,57.783
+Croatia,HRV,2019,78.488
+Cuba,CUB,2019,78.802
+Curacao,CUW,2019,78.88
+Cyprus,CYP,2019,80.982
+Czechia,CZE,2019,79.376
+Democratic Republic of Congo,COD,2019,60.681
+Denmark,DNK,2019,80.898
+Djibouti,DJI,2019,67.112
+Dominica,DMA,2019,75
+Dominican Republic,DOM,2019,74.081
+Ecuador,ECU,2019,77.01
+Egypt,EGY,2019,71.99
+El Salvador,SLV,2019,73.317
+Equatorial Guinea,GNQ,2019,58.735
+Eritrea,ERI,2019,66.321
+Estonia,EST,2019,78.745
+Eswatini,SWZ,2019,60.194
+Ethiopia,ETH,2019,66.597
+Europe,,2019,78.587
+Faeroe Islands,FRO,2019,80.666
+Falkland Islands,FLK,2019,81.442
+Fiji,FJI,2019,67.444
+Finland,FIN,2019,81.908
+France,FRA,2019,82.659
+French Guiana,GUF,2019,79.952
+French Polynesia,PYF,2019,77.657
+Gabon,GAB,2019,66.467
+Gambia,GMB,2019,62.05
+Georgia,GEO,2019,73.767
+Germany,DEU,2019,81.326
+Ghana,GHA,2019,64.074
+Gibraltar,GIB,2019,79.927
+Greece,GRC,2019,82.239
+Greenland,GRL,2019,71.704
+Grenada,GRD,2019,72.397
+Guadeloupe,GLP,2019,82.138
+Guam,GUM,2019,80.074
+Guatemala,GTM,2019,74.302
+Guinea,GIN,2019,61.602
+Guinea-Bissau,GNB,2019,58.322
+Guyana,GUY,2019,69.906
+Haiti,HTI,2019,64.001
+Honduras,HND,2019,75.27
+Hong Kong,HKG,2019,84.857
+Hungary,HUN,2019,76.875
+Iceland,ISL,2019,82.993
+India,IND,2019,69.656
+Indonesia,IDN,2019,71.716
+Iran,IRN,2019,76.677
+Iraq,IRQ,2019,70.604
+Ireland,IRL,2019,82.305
+Isle of Man,IMN,2019,81.396
+Israel,ISR,2019,82.972
+Italy,ITA,2019,83.512
+Jamaica,JAM,2019,74.475
+Japan,JPN,2019,84.629
+Jordan,JOR,2019,74.526
+Kazakhstan,KAZ,2019,73.597
+Kenya,KEN,2019,66.699
+Kiribati,KIR,2019,68.369
+Kuwait,KWT,2019,75.489
+Kyrgyzstan,KGZ,2019,71.45
+Laos,LAO,2019,67.923
+Latin America and the Caribbean,,2019,75.486
+Latvia,LVA,2019,75.292
+Lebanon,LBN,2019,78.93
+Lesotho,LSO,2019,54.331
+Liberia,LBR,2019,64.104
+Libya,LBY,2019,72.913
+Liechtenstein,LIE,2019,82.494
+Lithuania,LTU,2019,75.933
+Luxembourg,LUX,2019,82.25
+Macao,MAC,2019,84.244
+Madagascar,MDG,2019,67.041
+Malawi,MWI,2019,64.263
+Malaysia,MYS,2019,76.156
+Maldives,MDV,2019,78.921
+Mali,MLI,2019,59.306
+Malta,MLT,2019,82.53
+Marshall Islands,MHL,2019,73.696
+Martinique,MTQ,2019,82.545
+Mauritania,MRT,2019,64.925
+Mauritius,MUS,2019,74.991
+Mayotte,MYT,2019,79.455
+Mexico,MEX,2019,75.054
+Micronesia (country),FSM,2019,67.883
+Moldova,MDA,2019,71.901
+Monaco,MCO,2019,86.751
+Mongolia,MNG,2019,69.87
+Montenegro,MNE,2019,76.884
+Montserrat,MSR,2019,74.158
+Morocco,MAR,2019,76.68
+Mozambique,MOZ,2019,60.854
+Myanmar,MMR,2019,67.134
+Namibia,NAM,2019,63.708
+Nauru,NRU,2019,59.962
+Nepal,NPL,2019,70.778
+Netherlands,NLD,2019,82.283
+New Caledonia,NCL,2019,77.55
+New Zealand,NZL,2019,82.288
+Nicaragua,NIC,2019,74.485
+Niger,NER,2019,62.42
+Nigeria,NGA,2019,54.687
+Niue,NIU,2019,73.708
+North Korea,PRK,2019,72.274
+North Macedonia,MKD,2019,75.797
+Northern America,,2019,79.221
+Northern Mariana Islands,MNP,2019,76.735
+Norway,NOR,2019,82.404
+Oceania,,2019,78.71
+Oman,OMN,2019,77.861
+Pakistan,PAK,2019,67.273
+Palau,PLW,2019,73.701
+Palestine,PSE,2019,74.053
+Panama,PAN,2019,78.506
+Papua New Guinea,PNG,2019,64.501
+Paraguay,PRY,2019,74.254
+Peru,PER,2019,76.736
+Philippines,PHL,2019,71.231
+Poland,POL,2019,78.73
+Portugal,PRT,2019,82.049
+Puerto Rico,PRI,2019,80.104
+Qatar,QAT,2019,80.227
+Reunion,REU,2019,80.484
+Romania,ROU,2019,76.054
+Russia,RUS,2019,72.584
+Rwanda,RWA,2019,69.024
+Saint Barthlemy,,2019,82.023
+Saint Helena,SHN,2019,80.558
+Saint Kitts and Nevis,KNA,2019,76.226
+Saint Lucia,LCA,2019,76.203
+Saint Martin (French part),MAF,2019,82.076
+Saint Pierre and Miquelon,SPM,2019,81.068
+Saint Vincent and the Grenadines,VCT,2019,72.534
+Samoa,WSM,2019,73.321
+San Marino,SMR,2019,84.972
+Sao Tome and Principe,STP,2019,70.385
+Saudi Arabia,SAU,2019,75.133
+Senegal,SEN,2019,67.941
+Serbia,SRB,2019,76.001
+Seychelles,SYC,2019,73.402
+Sierra Leone,SLE,2019,54.696
+Singapore,SGP,2019,83.62
+Sint Maarten (Dutch part),SXM,2019,78.951
+Slovakia,SVK,2019,77.542
+Slovenia,SVN,2019,81.324
+Solomon Islands,SLB,2019,72.996
+Somalia,SOM,2019,57.397
+South Africa,ZAF,2019,64.131
+South Korea,KOR,2019,83.033
+South Sudan,SSD,2019,57.846
+Spain,ESP,2019,83.565
+Sri Lanka,LKA,2019,76.978
+Sudan,SDN,2019,65.311
+Suriname,SUR,2019,71.682
+Sweden,SWE,2019,82.797
+Switzerland,CHE,2019,83.779
+Syria,SYR,2019,72.697
+Taiwan,TWN,2019,80.456
+Tajikistan,TJK,2019,71.097
+Tanzania,TZA,2019,65.456
+Thailand,THA,2019,77.15
+Timor,TLS,2019,69.495
+Togo,TGO,2019,61.042
+Tokelau,TKL,2019,81.86
+Tonga,TON,2019,70.907
+Trinidad and Tobago,TTO,2019,73.507
+Tunisia,TUN,2019,76.699
+Turkey,TUR,2019,77.691
+Turkmenistan,TKM,2019,68.191
+Turks and Caicos Islands,TCA,2019,80.222
+Tuvalu,TUV,2019,67.567
+Uganda,UGA,2019,63.368
+Ukraine,UKR,2019,72.065
+United Arab Emirates,ARE,2019,77.972
+United Kingdom,GBR,2019,81.321
+United States,USA,2019,78.862
+United States Virgin Islands,VIR,2019,80.583
+Uruguay,URY,2019,77.911
+Uzbekistan,UZB,2019,71.725
+Vanuatu,VUT,2019,70.474
+Vatican,VAT,2019,75.125
+Venezuela,VEN,2019,72.064
+Vietnam,VNM,2019,75.4
+Wallis and Futuna,WLF,2019,79.944
+Western Sahara,ESH,2019,70.263
+World,OWID_WRL,2019,72.584
+Yemen,YEM,2019,66.125
+Zambia,ZMB,2019,63.886
+Zimbabwe,ZWE,2019,61.49

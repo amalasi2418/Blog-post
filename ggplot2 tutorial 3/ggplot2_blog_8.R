@@ -57,7 +57,7 @@ manufact %>% ggplot(aes(x=2,perc, fill=mfr)) +
 
 
 # installing ggradar package
-#devtools::install_github("ricardo-bion/ggradar", dependencies=TRUE)
+# devtools::install_github("ricardo-bion/ggradar", dependencies=TRUE)
 
 
 library(ggradar)
